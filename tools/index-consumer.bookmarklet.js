@@ -20,7 +20,7 @@
     Sw: 'sv'
   };
 
-  document.location = 'data:application/json;base64,' + btoa(JSON.stringify(Array.from(document.querySelectorAll('.sectiontable tr'))
+  document.location = 'data:application/json;base64,' + btoa(unescape(encodeURIComponent(JSON.stringify(Array.from(document.querySelectorAll('.sectiontable tr'))
     .filter((row) => row.childElementCount)
     .map((row) => {
       const data = {};
@@ -71,5 +71,5 @@
       }
 
       return data;
-    }), null, '  '));
+    }), null, '  '))));
 }
