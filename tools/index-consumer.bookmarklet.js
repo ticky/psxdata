@@ -1,23 +1,42 @@
 {
   // Missing from this:
-  //  * 'Ir' for 'Iranian' (there doesn't appear to be _one_ 'Iranian' language)
+  //  * 'ar'
+  //  * 'c'
+  //  * 'cj'
+  //  * 'cr'
+  //  * 'fl'
+  //  * 'ga'
+  //  * 'h'
+  //  * 'ir' for 'Iranian' (there doesn't appear to be _one_ 'Iranian' language)
+  //  * 'sc'
   const LANGUAGE_MAP = {
-    A:  'en-AU',
-    D:  'da',
-    Du: 'nl',
-    E:  'en',
-    F:  'fr',
-    Fi: 'fi',
-    G:  'de',
-    I:  'it',
-    J:  'jp',
-    K:  'kr',
-    M:  'es-MX',
-    N:  'no',
-    P:  'pt',
-    R:  'ru',
-    S:  'es',
-    Sw: 'sv'
+    a:  'en-AU',
+    af: 'af',
+    ca: 'ca',
+    ch: 'zh',
+    cz: 'cs',
+    d:  'da',
+    du: 'nl',
+    e:  'en',
+    f:  'fr',
+    fi: 'fi',
+    g:  'de',
+    gr: 'el',
+    hu: 'hu',
+    i:  'it',
+    is: 'he',
+    j:  'jp',
+    k:  'kr',
+    m:  'es-MX',
+    n:  'no',
+    nw: 'no',
+    p:  'pt',
+    pl: 'pl',
+    po: 'pl',
+    r:  'ru',
+    s:  'es',
+    sw: 'sv',
+    t:  'tr'
   };
 
   document.location = 'data:application/json;base64,' + btoa(unescape(encodeURIComponent(JSON.stringify(Array.from(document.querySelectorAll('.sectiontable tr'))
@@ -61,7 +80,7 @@
       const languages = row.querySelector('.col4, .col8').textContent.match(/\w+/g);
       if (languages) {
         data.languages = languages
-          .map((language) => LANGUAGE_MAP[language] || language);
+          .map((language) => LANGUAGE_MAP[language.toLowerCase()] || language);
       }
 
       // Parse PSXDataCenter detail link

@@ -42,7 +42,7 @@
       "it",
       "es",
       "nl",
-      "Nw",
+      "no",
       "ru"
     ]
   },
@@ -1035,7 +1035,7 @@
       "de",
       "it",
       "es",
-      "Ch",
+      "zh",
       "jp",
       "kr"
     ]
@@ -1046,7 +1046,7 @@
     "discs": 1,
     "languages": [
       "en",
-      "Ch",
+      "zh",
       "jp",
       "kr"
     ]
@@ -1369,7 +1369,7 @@
     "languages": [
       "da",
       "fi",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -1412,7 +1412,7 @@
     "discs": 1,
     "languages": [
       "da",
-      "Nw"
+      "no"
     ]
   },
   {
@@ -1462,7 +1462,7 @@
     "discs": 1,
     "languages": [
       "en",
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -1498,7 +1498,7 @@
     "discs": 1,
     "languages": [
       "da",
-      "Nw"
+      "no"
     ]
   },
   {
@@ -1523,7 +1523,7 @@
     "title": "Buzz! - Mozak Hrvatske",
     "discs": 1,
     "languages": [
-      "Pl",
+      "pl",
       "Cr"
     ]
   },
@@ -1550,7 +1550,7 @@
     "discs": 1,
     "languages": [
       "en",
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -1594,7 +1594,7 @@
     "discs": 1,
     "languages": [
       "da",
-      "Nw"
+      "no"
     ]
   },
   {
@@ -1620,8 +1620,8 @@
     "title": "Buzz! - Quiz World",
     "discs": 1,
     "languages": [
-      "Cz",
-      "Gr"
+      "cs",
+      "el"
     ]
   },
   {
@@ -1682,7 +1682,7 @@
     "discs": 1,
     "languages": [
       "da",
-      "Nw"
+      "no"
     ]
   },
   {
@@ -1690,7 +1690,7 @@
     "title": "Buzz! - The Ultimate Music Quizr",
     "discs": 1,
     "languages": [
-      "fI",
+      "fi",
       "sv"
     ]
   },
@@ -1699,7 +1699,7 @@
     "title": "Buzz! - The Ultimate Music Quizr",
     "discs": 1,
     "languages": [
-      "Gr"
+      "el"
     ]
   },
   {
@@ -2594,7 +2594,7 @@
       "es",
       "da",
       "fi",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -2744,7 +2744,7 @@
     "languages": [
       "en",
       "da",
-      "Nw",
+      "no",
       "ru",
       "sv"
     ]
@@ -2808,7 +2808,7 @@
     "title": "Disney's Pixar - Biler",
     "discs": 1,
     "languages": [
-      "Nw"
+      "no"
     ]
   },
   {
@@ -2903,7 +2903,7 @@
       "es",
       "nl",
       "pt",
-      "PL",
+      "pl",
       "ru"
     ]
   },
@@ -2980,7 +2980,7 @@
     "title": "Disney's Pixar - Ratatouille",
     "discs": 1,
     "languages": [
-      "Gr"
+      "el"
     ]
   },
   {
@@ -2996,7 +2996,7 @@
     "title": "Disney's Pixar - Ratatouille",
     "discs": 1,
     "languages": [
-      "Nw"
+      "no"
     ]
   },
   {
@@ -3105,7 +3105,7 @@
     "title": "Disney's Pixar - Up",
     "discs": 1,
     "languages": [
-      "Gr"
+      "el"
     ]
   },
   {
@@ -3130,7 +3130,7 @@
     "discs": 1,
     "languages": [
       "da",
-      "Nw"
+      "no"
     ]
   },
   {
@@ -3875,9 +3875,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -3895,9 +3895,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -4036,7 +4036,7 @@
       "it",
       "es",
       "pt",
-      "Gr",
+      "el",
       "ru"
     ]
   },
@@ -4288,9 +4288,9 @@
     "title": "FIFA '09",
     "discs": 1,
     "languages": [
-      "Cz",
-      "Hu",
-      "Pl"
+      "cs",
+      "hu",
+      "pl"
     ]
   },
   {
@@ -4346,9 +4346,9 @@
     "title": "FIFA 10",
     "discs": 1,
     "languages": [
-      "Cz",
-      "Hu",
-      "Pl"
+      "cs",
+      "hu",
+      "pl"
     ]
   },
   {
@@ -4444,7 +4444,7 @@
     "title": "FIFA 12",
     "discs": 1,
     "languages": [
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -4529,7 +4529,7 @@
     "title": "FIFA 13",
     "discs": 1,
     "languages": [
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -4649,7 +4649,7 @@
     "title": "FIFA 14",
     "discs": 1,
     "languages": [
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -5353,7 +5353,7 @@
       "pt",
       "da",
       "fi",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -5424,7 +5424,7 @@
     "languages": [
       "en",
       "ru",
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -6170,7 +6170,7 @@
       "es",
       "da",
       "nl",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -6281,9 +6281,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -6322,9 +6322,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -6341,7 +6341,7 @@
       "es",
       "nl",
       "pt",
-      "Pl",
+      "pl",
       "ru"
     ]
   },
@@ -6402,9 +6402,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "sv"
     ]
   },
@@ -6535,10 +6535,10 @@
       "da",
       "nl",
       "fi",
-      "Gr",
-      "Nw",
+      "el",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -6556,10 +6556,10 @@
       "da",
       "nl",
       "fi",
-      "Gr",
-      "Nw",
+      "el",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -6671,7 +6671,7 @@
       "it",
       "es",
       "nl",
-      "Pl",
+      "pl",
       "ru"
     ]
   },
@@ -6909,7 +6909,7 @@
     "discs": 1,
     "languages": [
       "en",
-      "Pl",
+      "pl",
       "ru"
     ]
   },
@@ -6951,7 +6951,7 @@
       "es",
       "da",
       "nl",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -7042,9 +7042,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -7062,9 +7062,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -7082,9 +7082,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -7102,9 +7102,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -7735,7 +7735,7 @@
       "de",
       "it",
       "es",
-      "Pl",
+      "pl",
       "ru"
     ]
   },
@@ -7838,9 +7838,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -7965,9 +7965,9 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "pt",
-      "Pl",
+      "pl",
       "ru",
       "sv"
     ]
@@ -8432,10 +8432,10 @@
       "de",
       "it",
       "es",
-      "Cz",
+      "cs",
       "nl",
-      "Hu",
-      "Pl",
+      "hu",
+      "pl",
       "ru"
     ]
   },
@@ -8649,7 +8649,7 @@
       "es",
       "da",
       "fi",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -8976,7 +8976,7 @@
       "da",
       "nl",
       "fi",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -9049,8 +9049,8 @@
       "es",
       "nl",
       "pt",
-      "Pl",
-      "Gr",
+      "pl",
+      "el",
       "ru"
     ]
   },
@@ -9341,7 +9341,7 @@
     "title": "Prince of Persia - The Forgotten Sands",
     "discs": 1,
     "languages": [
-      "r"
+      "ru"
     ]
   },
   {
@@ -9512,7 +9512,7 @@
     "discs": 1,
     "languages": [
       "it",
-      "Gr"
+      "el"
     ]
   },
   {
@@ -9551,7 +9551,7 @@
     "discs": 1,
     "languages": [
       "it",
-      "Gr",
+      "el",
       "pt",
       "es"
     ]
@@ -9582,8 +9582,8 @@
     "title": "Pro Evolution Soccer 2013",
     "discs": 1,
     "languages": [
-      "i",
-      "Gr"
+      "it",
+      "el"
     ]
   },
   {
@@ -9621,8 +9621,8 @@
     "title": "Pro Evolution Soccer 2014",
     "discs": 1,
     "languages": [
-      "i",
-      "Gr"
+      "it",
+      "el"
     ]
   },
   {
@@ -9704,7 +9704,7 @@
       "nl",
       "Fl",
       "pt",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -9714,9 +9714,9 @@
     "discs": 1,
     "languages": [
       "en",
-      "Cz",
-      "Hu",
-      "Pl",
+      "cs",
+      "hu",
+      "pl",
       "ru"
     ]
   },
@@ -9851,7 +9851,7 @@
       "nl",
       "Fl",
       "pt",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -10282,8 +10282,8 @@
       "da",
       "nl",
       "fi",
-      "Pl",
-      "Nw",
+      "pl",
+      "no",
       "sv"
     ]
   },
@@ -10539,8 +10539,8 @@
       "nl",
       "fi",
       "pt",
-      "Pl",
-      "Nw",
+      "pl",
+      "no",
       "sv",
       "ru"
     ]
@@ -11258,7 +11258,7 @@
       "de",
       "it",
       "es",
-      "Pl",
+      "pl",
       "ru"
     ]
   },
@@ -11284,7 +11284,7 @@
       "de",
       "it",
       "es",
-      "Pl",
+      "pl",
       "ru"
     ]
   },
@@ -11561,7 +11561,7 @@
     "languages": [
       "en",
       "nl",
-      "Pl"
+      "pl"
     ]
   },
   {
@@ -11572,7 +11572,7 @@
       "en",
       "da",
       "nl",
-      "Nw",
+      "no",
       "sv"
     ]
   },
@@ -13263,7 +13263,7 @@
       "es",
       "nl",
       "pt",
-      "Pl"
+      "pl"
     ]
   },
   {

@@ -1,3 +1,3 @@
 # PSX Data
 
-Data and tools for serializing data provided by the PSX Data Center
+Data and tools for serializing data provided by the [PSX Data Center](http://psxdatacenter.com)
