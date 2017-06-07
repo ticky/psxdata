@@ -26,7 +26,7 @@
       const data = {};
 
       // Parse ID lists, split on newlines
-      data.id = row.querySelector('.col2').innerText.split(/\r?\n/g);
+      data.id = row.querySelector('.col2, .col6').innerText.split(/\r?\n/g);
 
       // Infer disc count from IDs
       const discs = data.id.length;
@@ -37,14 +37,14 @@
       }
 
       // Parse out just the title (ignore disc count)
-      const titleColumn = row.querySelector('.col3');
+      const titleColumn = row.querySelector('.col3, .col7');
 
       data.title = titleColumn.firstChild.textContent
         .replace(/\[\s*\d DISCS\s*\]/g, '')
         .replace(/^[\s-]+|[\s-]+$/g, '')
 
       // Parse out any extra title info, such as disc titles
-      const extras = Array.from(row.querySelectorAll('.col3 > span'));
+      const extras = Array.from(row.querySelectorAll('.col3 > span, .col7 > span'));
 
       if (extras.length) {
         data.extras = extras.map((span) => span.innerText.trim());
@@ -58,14 +58,14 @@
       data.discs = discs;
 
       // Parse language list
-      const languages = row.querySelector('.col4').textContent.match(/\w+/g);
+      const languages = row.querySelector('.col4, .col8').textContent.match(/\w+/g);
       if (languages) {
         data.languages = languages
           .map((language) => LANGUAGE_MAP[language] || language);
       }
 
       // Parse PSXDataCenter detail link
-      const link = row.querySelector('.col1 a[href]');
+      const link = row.querySelector('.col1 a[href], .col5 a[href]');
       if (link) {
         data.link = link.href;
       }
