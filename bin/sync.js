@@ -1,7 +1,7 @@
 const fs = require('fs-then-native');
 const path = require('path');
 const { JSDOM } = require('jsdom');
-const consumeIndex = require('../src/consumeIndex');
+const consumeIndex = require('../lib/consumeIndex');
 
 const SOURCES = {
   ps1: {
