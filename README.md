@@ -4,7 +4,7 @@ Data and tools for serializing data provided by the [PSX Data Center](https://ps
 
 ## Parser
 
-[![Build Status](https://travis-ci.org/ticky/psxdata.svg?branch=develop)](https://travis-ci.org/ticky/psxdata)
+[![Build Status](https://travis-ci.org/ticky/psxdata.svg?branch=develop)](https://travis-ci.org/ticky/psxdata) [![codecov](https://codecov.io/gh/ticky/psxdata/branch/develop/graph/badge.svg)](https://codecov.io/gh/ticky/psxdata)
 
 The parser utility is included. To use it, you will need [Node](https://nodejs.org) and the [Yarn](https://yarnpkg.com) package manager installed.
 
