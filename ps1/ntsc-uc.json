@@ -377,7 +377,10 @@
       "SLUS-01256"
     ],
     "title": "ARC THE LAD COLLECTION",
-    "extras": "Includes:  Arc The Lad  -  Arc The Lad II  -  Arc The Lad III (2 Discs)\n                  Arc The Lad - Monster Tournament - Battle Arena  &  Arc The Lad - The Making Of Disc",
+    "includes": [
+      " Arc The Lad - Arc The Lad II - Arc The Lad III (2 Discs)",
+      " Arc The Lad - Monster Tournament - Battle Arena & Arc The Lad - The Making Of Disc"
+    ],
     "discs": 6,
     "languages": [
       "en"
@@ -1305,7 +1308,7 @@
       "SLUS-90029"
     ],
     "title": "BRAVE FENCER MUSASHI",
-    "extras": "Includes:  SquareSoft '98 Collector's CD Vol.2 - Final Fantasy VIII (DEMO)",
+    "includes": "SquareSoft '98 Collector's CD Vol.2 - Final Fantasy VIII (DEMO)",
     "discs": 2,
     "languages": [
       "en"
@@ -1947,7 +1950,7 @@
       "SLUS-00410"
     ],
     "title": "COMMAND & CONQUER",
-    "extras": "Includes:  GDI + NOD discs",
+    "includes": "GDI + NOD discs",
     "discs": 2,
     "languages": [
       "en"
@@ -1960,7 +1963,7 @@
       "SLUS-00485"
     ],
     "title": "COMMAND & CONQUER - RED ALERT",
-    "extras": "Includes:  Allied + Soviet discs",
+    "includes": "Allied + Soviet discs",
     "discs": 2,
     "languages": [
       "en"
@@ -1973,7 +1976,7 @@
       "SLUS-00667"
     ],
     "title": "COMMAND & CONQUER - RED ALERT - RETALIATION",
-    "extras": "Includes:  Allied + Soviet discs",
+    "includes": "Allied + Soviet discs",
     "discs": 2,
     "languages": [
       "en"
@@ -2636,7 +2639,7 @@
       "SLUS-90064"
     ],
     "title": "DINO CRISIS",
-    "extras": "Includes:  Resident Evil 3 - Nemesis (DEMO)",
+    "includes": "Resident Evil 3 - Nemesis (DEMO)",
     "discs": 2,
     "languages": [
       "en"
@@ -3682,7 +3685,7 @@
       "SLUS-00900"
     ],
     "title": "FINAL FANTASY ANTHOLOGY",
-    "extras": "Includes:  Final Fantasy V and Final Fantasy VI",
+    "includes": "Final Fantasy V and Final Fantasy VI",
     "discs": 2,
     "languages": [
       "en"
@@ -3695,7 +3698,7 @@
       "SLUS-01363"
     ],
     "title": "FINAL FANTASY CHRONICLES",
-    "extras": "Includes:  Final Fantasy IV and Chrono Trigger",
+    "includes": "Final Fantasy IV and Chrono Trigger",
     "discs": 2,
     "languages": [
       "en"
@@ -3705,7 +3708,7 @@
   {
     "id": "SLUS-01541",
     "title": "FINAL FANTASY ORIGINS",
-    "extras": "Includes:  Final Fantasy + Final Fantasy II",
+    "includes": "Final Fantasy + Final Fantasy II",
     "discs": 1,
     "languages": [
       "en"
@@ -4119,7 +4122,7 @@
       "SCUS-94588"
     ],
     "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR",
-    "extras": "Includes:  Arcade Disc + Simulation Disc + Bonus PlayStation Disc",
+    "includes": "Arcade Disc + Simulation Disc + Bonus PlayStation Disc",
     "discs": 3,
     "languages": [
       "en"
@@ -5866,7 +5869,7 @@
       "SLUS-00921"
     ],
     "title": "LUNAR - SILVER STAR STORY COMPLETE",
-    "extras": "Includes:  Lunar Silver Star Story + The Making Of",
+    "includes": "Lunar Silver Star Story + The Making Of",
     "discs": 3,
     "languages": [
       "en"
@@ -5881,7 +5884,7 @@
       "SLUS-01257"
     ],
     "title": "LUNAR 2 - ETERNAL BLUE COMPLETE",
-    "extras": "Includes:  Lunar Eternal Blue + The Making Of",
+    "includes": "Lunar Eternal Blue + The Making Of",
     "discs": 4,
     "languages": [
       "en"
@@ -8014,7 +8017,7 @@
       "SLUS-90028"
     ],
     "title": "PARASITE EVE",
-    "extras": "Includes:  Parasite Eve + SquareSoft '98 Collector's CD Vol.1 - Xenogears (DEMO)",
+    "includes": "Parasite Eve + SquareSoft '98 Collector's CD Vol.1 - Xenogears (DEMO)",
     "discs": 3,
     "languages": [
       "en"
@@ -8076,7 +8079,7 @@
       "SLUS-01339"
     ],
     "title": "PERSONA 2 - ETERNAL PUNISHMENT",
-    "extras": "Includes:  Persona 2 - Eternal Punishment + Bonus Disc",
+    "includes": "Persona 2 - Eternal Punishment + Bonus Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -8563,7 +8566,7 @@
       "SLUS-90049"
     ],
     "title": "R4 - RIDGE RACER TYPE 4",
-    "extras": "Includes:  Ridge Racer Type 4 + Bonus Disc",
+    "includes": "Ridge Racer Type 4 + Bonus Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -8902,7 +8905,7 @@
       "SLUS-90009"
     ],
     "title": "RESIDENT EVIL - DIRECTOR'S CUT",
-    "extras": "Includes:  Resident Evil - Director's Cut + Bonus Disc (Resident Evil 2 Demo)",
+    "includes": "Resident Evil - Director's Cut + Bonus Disc (Resident Evil 2 Demo)",
     "discs": 2,
     "languages": [
       "en"
@@ -9060,7 +9063,7 @@
       "SLUS-00771"
     ],
     "title": "RIVAL SCHOOLS - UNITED BY FATE",
-    "extras": "Includes:  Arcade Disc + Evolution Disc",
+    "includes": "Arcade Disc + Evolution Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -10263,7 +10266,7 @@
       "SLUS-00584"
     ],
     "title": "STREET FIGHTER COLLECTION",
-    "extras": "Includes:  Street Fighter Collection + Street Fighter Alpha 2 Gold",
+    "includes": "Street Fighter Collection + Street Fighter Alpha 2 Gold",
     "discs": 2,
     "languages": [
       "en"
@@ -11379,7 +11382,7 @@
       "SCUS-94961"
     ],
     "title": "TOBAL No.1",
-    "extras": "Includes: Tobal No.1+ Final Fantasy VII - Interactive Sampler CD (DEMO)",
+    "includes": "Tobal No.1+ Final Fantasy VII - Interactive Sampler CD (DEMO)",
     "discs": 2,
     "languages": [
       "en"

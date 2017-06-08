@@ -1947,7 +1947,7 @@
       "SLPM-86089"
     ],
     "title": "ASTRONOKA",
-    "extras": "Includes:  Astronoka + Itadaki Street - Gorgeous King Demo",
+    "includes": "Astronoka + Itadaki Street - Gorgeous King Demo",
     "discs": 2,
     "languages": [
       "jp"
@@ -2415,7 +2415,7 @@
       "SLPS-02466"
     ],
     "title": "BAKUSOU DEKOTORA DENSETSU 2 (ART TRUCK BATTLE 2)",
-    "extras": "Includes:  Bakusou Dekotora Densetsu 2 + V-Rally 2 & Driver Demos",
+    "includes": "Bakusou Dekotora Densetsu 2 + V-Rally 2 & Driver Demos",
     "discs": 2,
     "languages": [
       "jp"
@@ -2860,7 +2860,7 @@
       "SLPM-86127"
     ],
     "title": "BEATMANIA",
-    "extras": "Includes:  Arcade 2nd Mix + Append Yebisu Mix",
+    "includes": "Arcade 2nd Mix + Append Yebisu Mix",
     "discs": 2,
     "languages": [
       "jp"
@@ -2873,7 +2873,7 @@
       "SLPM-86391"
     ],
     "title": "BEATMANIA [KONAMI THE BEST]",
-    "extras": "Includes:  Arcade 2nd Mix + Append Yebisu Mix",
+    "includes": "Arcade 2nd Mix + Append Yebisu Mix",
     "discs": 2,
     "languages": [
       "jp"
@@ -3093,7 +3093,7 @@
       "SLPS-00999"
     ],
     "title": "BIOHAZARD - DIRECTOR'S CUT",
-    "extras": "Includes:  Biohazard - Director's Cut + Biohazard 2 Demo",
+    "includes": "Biohazard - Director's Cut + Biohazard 2 Demo",
     "discs": 2,
     "languages": [
       "jp"
@@ -3106,7 +3106,7 @@
       "SLPS-01513"
     ],
     "title": "BIOHAZARD - DIRECTOR'S CUT - DUAL SHOCK",
-    "extras": "Includes:  Biohazard - Director's Cut Dual Shock + Biohazard Complete Disc",
+    "includes": "Biohazard - Director's Cut Dual Shock + Biohazard Complete Disc",
     "discs": 2,
     "languages": [
       "jp"
@@ -3968,7 +3968,7 @@
       "SLPS-01491"
     ],
     "title": "BRAVE FENCE MUSASHIDEN",
-    "extras": "Includes:  Brave Fencer Musashiden + Square's Preview 3",
+    "includes": "Brave Fencer Musashiden + Square's Preview 3",
     "discs": 2,
     "languages": [
       "jp"
@@ -5068,7 +5068,7 @@
       "SCPS-45475"
     ],
     "title": "CHOCOBO COLLECTION - HAPPY 10TH ANNIVERSARY!",
-    "extras": "Includes:  Chocobo Collection Happy 10th Anniversary + Dice de Chocobo",
+    "includes": "Chocobo Collection Happy 10th Anniversary + Dice de Chocobo",
     "discs": 3,
     "languages": [
       "jp"
@@ -5082,7 +5082,7 @@
       "SLPS-02523"
     ],
     "title": "CHOCOBO COLLECTION - HAPPY 10TH ANNIVERSARY!",
-    "extras": "Includes:  Chocobo Collection Happy 10th Anniversary + Dice de Chocobo",
+    "includes": "Chocobo Collection Happy 10th Anniversary + Dice de Chocobo",
     "discs": 3,
     "languages": [
       "jp"
@@ -10747,7 +10747,7 @@
       "SLPS-01060"
     ],
     "title": "FINAL FANTASY VII INTERNATIONAL",
-    "extras": "Includes:  Final Fantasy VII International + Bonus Disc",
+    "includes": "Final Fantasy VII International + Bonus Disc",
     "discs": 4,
     "languages": [
       "jp"
@@ -10762,7 +10762,7 @@
       "SLPS-91443"
     ],
     "title": "FINAL FANTASY VII INTERNATIONAL [PSONE BOOKS]",
-    "extras": "Includes:  Final Fantasy VII International [Psone Books] + Bonus Disc",
+    "includes": "Final Fantasy VII International [Psone Books] + Bonus Disc",
     "discs": 4,
     "languages": [
       "jp"
@@ -10777,7 +10777,7 @@
       "SLPM-87383"
     ],
     "title": "FINAL FANTASY VII INTERNATIONAL [ULTIMATE HITS]",
-    "extras": "Includes:  Final Fantasy VII International [Ultimate Hits] + Bonus Disc",
+    "includes": "Final Fantasy VII International [Ultimate Hits] + Bonus Disc",
     "discs": 4,
     "languages": [
       "jp"
@@ -11406,7 +11406,7 @@
       "SLPM-87332"
     ],
     "title": "FRONT MISSION HISTORY",
-    "extras": "Includes:  Front Mission 1st + Front Mission 2 + Front Mission 3",
+    "includes": "Front Mission 1st + Front Mission 2 + Front Mission 3",
     "discs": 3,
     "languages": [
       "jp"
@@ -13026,7 +13026,7 @@
       "SCPS-45458"
     ],
     "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR",
-    "extras": "Includes:  Arcade Disc + Simulation Disc",
+    "includes": "Arcade Disc + Simulation Disc",
     "discs": 2,
     "languages": [
       "jp"
@@ -13039,7 +13039,7 @@
       "SCPS-10117"
     ],
     "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR",
-    "extras": "Includes:  Arcade Disc + Simulation Disc",
+    "includes": "Arcade Disc + Simulation Disc",
     "discs": 2,
     "languages": [
       "jp"
@@ -13052,7 +13052,7 @@
       "SCAJ-01002"
     ],
     "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR [PSONE BOOKS]",
-    "extras": "Includes:  Arcade Disc + Simulation Disc",
+    "includes": "Arcade Disc + Simulation Disc",
     "discs": 2,
     "languages": [
       "jp"
@@ -13065,7 +13065,7 @@
       "SCPS-91327"
     ],
     "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR [PSONE BOOKS]",
-    "extras": "Includes:  Arcade Disc + Simulation Disc",
+    "includes": "Arcade Disc + Simulation Disc",
     "discs": 2,
     "languages": [
       "jp"
@@ -15475,7 +15475,7 @@
       "SLPS-00343",
       "SLPS-00344"
     ],
-    "title": "IDOL PROMOTION - YUMIE SUZUKI  -  ]",
+    "title": "IDOL PROMOTION - YUMIE SUZUKI",
     "discs": 2,
     "languages": [
       "jp"
@@ -21729,7 +21729,7 @@
       "SCPS-45322"
     ],
     "title": "METAL GEAR SOLID",
-    "extras": "Includes:  Metal Gear Solid + Bonus Disc (GensoSuikoden II Demo)",
+    "includes": "Metal Gear Solid + Bonus Disc (GensoSuikoden II Demo)",
     "discs": 3,
     "languages": [
       "jp"
@@ -21743,7 +21743,7 @@
       "SLPM-86116"
     ],
     "title": "METAL GEAR SOLID",
-    "extras": "Includes:  Metal Gear Solid + Bonus Disc (GensoSuikoden II Demo)",
+    "includes": "Metal Gear Solid + Bonus Disc (GensoSuikoden II Demo)",
     "discs": 3,
     "languages": [
       "jp"
@@ -21794,7 +21794,7 @@
       "SLPM-86113"
     ],
     "title": "METAL GEAR SOLID [PREMIUM PACKAGE]",
-    "extras": "Includes:  Metal Gear Solid + Bonus Disc",
+    "includes": "Metal Gear Solid + Bonus Disc",
     "discs": 3,
     "languages": [
       "jp"
@@ -21808,7 +21808,7 @@
       "SLPM-86113"
     ],
     "title": "METAL GEAR SOLID [PREMIUM PACKAGE SAI HAKKOU KINEN]",
-    "extras": "Includes:  Metal Gear Solid + Bonus Disc",
+    "includes": "Metal Gear Solid + Bonus Disc",
     "discs": 3,
     "languages": [
       "jp"
@@ -30684,7 +30684,7 @@
       "SCPS-45301"
     ],
     "title": "SAGA FRONTIER 2",
-    "extras": "Includes:  Saga Frontier 2 + Bonus Disc (Square's Preview 4)",
+    "includes": "Saga Frontier 2 + Bonus Disc (Square's Preview 4)",
     "discs": 2,
     "languages": [
       "jp"
@@ -30697,7 +30697,7 @@
       "SLPS-01991"
     ],
     "title": "SAGA FRONTIER 2",
-    "extras": "Includes:  Saga Frontier 2 + Bonus Disc (Square's Preview 4)",
+    "includes": "Saga Frontier 2 + Bonus Disc (Square's Preview 4)",
     "discs": 2,
     "languages": [
       "jp"
@@ -31542,7 +31542,7 @@
       "SLPS-01561"
     ],
     "title": "SD GUNDAM G GENERATION",
-    "extras": "Includes:  SD Gundam - G-Generation + Premium Disc",
+    "includes": "SD Gundam - G-Generation + Premium Disc",
     "discs": 2,
     "languages": [
       "jp"
@@ -31703,7 +31703,7 @@
       "SCPS-45417"
     ],
     "title": "SEIKEN DENSETSU - LEGEND OF MANA",
-    "extras": "Includes:  Seiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
+    "includes": "Seiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
     "discs": 2,
     "languages": [
       "jp"
@@ -31716,7 +31716,7 @@
       "SLPS-02171"
     ],
     "title": "SEIKEN DENSETSU - LEGEND OF MANA",
-    "extras": "Includes:  Seiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
+    "includes": "Seiken Densetsu - Legend of Mana + Bonus Disc (Square's Preview 5)",
     "discs": 2,
     "languages": [
       "jp"
@@ -35979,7 +35979,7 @@
       "SLPM-86107"
     ],
     "title": "STAR OCEAN - THE SECOND STORY",
-    "extras": "Includes:  Star Ocean - The Second Story + Bonus Disc (Astronoka Preview)",
+    "includes": "Star Ocean - The Second Story + Bonus Disc (Astronoka Preview)",
     "discs": 3,
     "languages": [
       "jp"
@@ -39705,7 +39705,7 @@
       "SLPS-00095"
     ],
     "title": "THUNDER STORM LX-3 & ROADBLASTER",
-    "extras": "Includes:  Thunder Storm LX-3 Disc + Roadblaster Disc",
+    "includes": "Thunder Storm LX-3 Disc + Roadblaster Disc",
     "discs": 2,
     "languages": [
       "en",
@@ -39854,7 +39854,7 @@
       "SLPS-00384"
     ],
     "title": "TIME GAL & NINJA HAYATE",
-    "extras": "Includes:  Time Gal Disc + Ninja Hayate Disc",
+    "includes": "Time Gal Disc + Ninja Hayate Disc",
     "discs": 2,
     "languages": [
       "jp"

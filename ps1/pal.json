@@ -4191,7 +4191,7 @@
       "SLES-10530"
     ],
     "title": "COMMAND & CONQUER",
-    "extras": "Includes:  GDI Disc + NOD Disc",
+    "includes": "GDI Disc + NOD Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -4204,7 +4204,7 @@
       "SLES-10531"
     ],
     "title": "COMMAND & CONQUER",
-    "extras": "Includes:  GDI Disc + NOD Disc",
+    "includes": "GDI Disc + NOD Disc",
     "discs": 2,
     "languages": [
       "fr"
@@ -4217,7 +4217,7 @@
       "SLES-10532"
     ],
     "title": "COMMAND & CONQUER TEIL 1 - DER TIBERIUMKONFLIKT",
-    "extras": "Includes:  GDI Disc + NOD Disc",
+    "includes": "GDI Disc + NOD Disc",
     "discs": 2,
     "languages": [
       "de"
@@ -4230,7 +4230,7 @@
       "SLES-11006"
     ],
     "title": "COMMAND & CONQUER - ALERTE ROUGE",
-    "extras": "Includes:  Allies Disc + Soviet Disc",
+    "includes": "Allies Disc + Soviet Disc",
     "discs": 2,
     "languages": [
       "fr"
@@ -4243,7 +4243,7 @@
       "SLES-11344"
     ],
     "title": "COMMAND & CONQUER -  ALERTE ROUGE - MISSION TESLA",
-    "extras": "Includes:  Allies Disc + Soviet Disc",
+    "includes": "Allies Disc + Soviet Disc",
     "discs": 2,
     "languages": [
       "fr"
@@ -4256,7 +4256,7 @@
       "SLES-11007"
     ],
     "title": "COMMAND & CONQUER - ALARMSTUFE ROT",
-    "extras": "Includes:  Allies Disc + Soviet Disc",
+    "includes": "Allies Disc + Soviet Disc",
     "discs": 2,
     "languages": [
       "de"
@@ -4269,7 +4269,7 @@
       "SLES-11345"
     ],
     "title": "COMMAND & CONQUER -  ALARMSTUFE ROT - GEGENSCHLAG",
-    "extras": "Includes:  Allies Disc + Soviet Disc",
+    "includes": "Allies Disc + Soviet Disc",
     "discs": 2,
     "languages": [
       "de"
@@ -4282,7 +4282,7 @@
       "SLES-10949"
     ],
     "title": "COMMAND & CONQUER - RED ALERT",
-    "extras": "Includes:  Allies Disc + Soviet Disc",
+    "includes": "Allies Disc + Soviet Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -4295,7 +4295,7 @@
       "SLES-11343"
     ],
     "title": "COMMAND & CONQUER -  RED ALERT - RETALIATION",
-    "extras": "Includes:  Allies Disc + Soviet Disc",
+    "includes": "Allies Disc + Soviet Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -9127,7 +9127,7 @@
       "SCES-13840"
     ],
     "title": "FINAL FANTASY ANTHOLOGY",
-    "extras": "Includes:  Final Fantasy IV + Final Fantasy V",
+    "includes": "Final Fantasy IV + Final Fantasy V",
     "discs": 2,
     "languages": [
       "en"
@@ -9140,7 +9140,7 @@
       "SLES-14034"
     ],
     "title": "FINAL FANTASY ORIGINS",
-    "extras": "Includes:  Final Fantasy I + Final Fantasy II",
+    "includes": "Final Fantasy I + Final Fantasy II",
     "discs": 2,
     "languages": [
       "en"
@@ -9153,7 +9153,7 @@
       "SCED-50642"
     ],
     "title": "FINAL FANTASY VI",
-    "extras": "Includes:  Final Fantasy VI + Final Fantasy X [Demo]",
+    "includes": "Final Fantasy VI + Final Fantasy X [Demo]",
     "discs": 2,
     "languages": [
       "en"
@@ -10315,7 +10315,7 @@
       "SCES-12380"
     ],
     "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR",
-    "extras": "Includes:  Arcade Disc + Simulation Disc",
+    "includes": "Arcade Disc + Simulation Disc",
     "discs": 2,
     "languages": [
       "en",
@@ -10345,7 +10345,7 @@
       "SLES-01404"
     ],
     "title": "GRAND THEFT AUTO [COLLECTOR'S EDITION SET]",
-    "extras": "Includes:  Grand Theft Auto Disc + Mission Pack #1 - London 1969 + Grand Theft Auto 2 Disc",
+    "includes": "Grand Theft Auto Disc + Mission Pack #1 - London 1969 + Grand Theft Auto 2 Disc",
     "discs": 3,
     "languages": [
       "en",
@@ -18167,7 +18167,7 @@
       "SLES-10972"
     ],
     "title": "RESIDENT EVIL 2",
-    "extras": "Includes:  Leon Disc + Claire Disc",
+    "includes": "Leon Disc + Claire Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -18180,7 +18180,7 @@
       "SLES-10973"
     ],
     "title": "RESIDENT EVIL 2",
-    "extras": "Includes:  Leon Disc + Claire Disc",
+    "includes": "Leon Disc + Claire Disc",
     "discs": 2,
     "languages": [
       "fr"
@@ -18193,7 +18193,7 @@
       "SLES-10974"
     ],
     "title": "RESIDENT EVIL 2",
-    "extras": "Includes:  Leon Disc + Claire Disc",
+    "includes": "Leon Disc + Claire Disc",
     "discs": 2,
     "languages": [
       "de"
@@ -18206,7 +18206,7 @@
       "SLES-10975"
     ],
     "title": "RESIDENT EVIL 2",
-    "extras": "Includes:  Leon Disc + Claire Disc",
+    "includes": "Leon Disc + Claire Disc",
     "discs": 2,
     "languages": [
       "it"
@@ -18219,7 +18219,7 @@
       "SLES-10976"
     ],
     "title": "RESIDENT EVIL 2",
-    "extras": "Includes:  Leon Disc + Claire Disc",
+    "includes": "Leon Disc + Claire Disc",
     "discs": 2,
     "languages": [
       "es"
@@ -18457,7 +18457,7 @@
       "SLES-11436"
     ],
     "title": "RIVAL SCHOOLS - UNITED BY FATE",
-    "extras": "Includes:  Evolution Disc + Arcade Disc",
+    "includes": "Evolution Disc + Arcade Disc",
     "discs": 2,
     "languages": [
       "en"
@@ -20662,7 +20662,7 @@
       "SLES-10998"
     ],
     "title": "STREET FIGHTER COLLECTION",
-    "extras": "Includes:  Street Fighter Collection + Street Fighter Alpha 2 Dash",
+    "includes": "Street Fighter Collection + Street Fighter Alpha 2 Dash",
     "discs": 2,
     "languages": [
       "en"

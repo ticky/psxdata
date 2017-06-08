@@ -1,0 +1,14 @@
+{
+  "name": "psxdata",
+  "version": "1.0.0",
+  "repository": "https://github.com/ticky/psxdata.git",
+  "author": "Jessica Stokes <hello@jessicastokes.net>",
+  "license": "CC-BY-SA-4.0",
+  "scripts": {
+    "sync": "node bin/sync.js"
+  },
+  "dependencies": {
+    "fs-then-native": "^2.0.0",
+    "jsdom": "^11.0.0"
+  }
+}
