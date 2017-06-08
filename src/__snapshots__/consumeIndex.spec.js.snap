@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`consumeIndex produces expected output under JSDOM 1`] = `
+Array [
+  Object {
+    "discs": 6,
+    "id": Array [
+      "SLUS-01224",
+      "SLUS-01252",
+      "SLUS-01253",
+      "SLUS-01254",
+      "SLUS-01255",
+      "SLUS-01256",
+    ],
+    "includes": Array [
+      "Arc The Lad - Arc The Lad II - Arc The Lad III (2 Discs)",
+      "Arc The Lad - Monster Tournament - Battle Arena & Arc The Lad - The Making Of Disc",
+    ],
+    "languages": Array [
+      "en",
+    ],
+    "link": "https://test-psxdata/games/U/A/SLUS-01224.html",
+    "title": "ARC THE LAD COLLECTION",
+  },
+  Object {
+    "discs": 2,
+    "id": Array [
+      "SLES-00530",
+      "SLES-10530",
+    ],
+    "includes": "GDI Disc + NOD Disc",
+    "languages": Array [
+      "en",
+    ],
+    "link": "https://test-psxdata/games/P/C/SLES-00530.html",
+    "title": "COMMAND & CONQUER",
+  },
+  Object {
+    "discs": 2,
+    "id": Array [
+      "SLES-00531",
+      "SLES-10531",
+    ],
+    "includes": "GDI Disc + NOD Disc",
+    "languages": Array [
+      "fr",
+    ],
+    "link": "https://test-psxdata/games/P/C/SLES-00531.html",
+    "title": "COMMAND & CONQUER",
+  },
+  Object {
+    "discs": 1,
+    "id": "SLES-00927",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/C/SLES-00927.html",
+    "title": "CONSTRUCTOR",
+  },
+  Object {
+    "discs": 1,
+    "id": "SCES-00344",
+    "languages": Array [
+      "en",
+    ],
+    "link": "https://test-psxdata/games/P/C/SCES-00344.html",
+    "title": "CRASH BANDICOOT",
+  },
+  Object {
+    "discs": 1,
+    "id": "SCES-00967",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/C/SCES-00967.html",
+    "title": "CRASH BANDICOOT 2- CORTEX STRIKES BACK",
+  },
+  Object {
+    "discs": 1,
+    "id": "SCES-01420",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/C/SCES-01420.html",
+    "title": "CRASH BANDICOOT 3 - WARPED",
+  },
+  Object {
+    "discs": 1,
+    "id": "SCES-02834",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/C/SCES-02834.html",
+    "title": "CRASH BASH",
+  },
+  Object {
+    "discs": 1,
+    "id": "SCES-02105",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/C/SCES-02105.html",
+    "title": "CRASH TEAM RACING",
+  },
+  Object {
+    "discs": 1,
+    "id": "SCES-00984",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SCES-00984.html",
+    "title": "GRAN TURISMO - THE REAL DRIVING SIMULATOR",
+  },
+  Object {
+    "discs": 2,
+    "id": Array [
+      "SCES-02380",
+      "SCES-12380",
+    ],
+    "includes": "Arcade Disc + Simulation Disc",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SCES-02380.html",
+    "title": "GRAN TURISMO 2 - THE REAL DRIVING SIMULATOR",
+  },
+  Object {
+    "discs": 1,
+    "id": "SLES-00032",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+    ],
+    "link": "https://test-psxdata/games/P/G/SLES-00032.html",
+    "title": "GRAND THEFT AUTO",
+  },
+  Object {
+    "discs": 3,
+    "id": Array [
+      "SLES-00032",
+      "SLES-03389",
+      "SLES-01404",
+    ],
+    "includes": "Grand Theft Auto Disc + Mission Pack #1 - London 1969 + Grand Theft Auto 2 Disc",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SLES-00032CE.html",
+    "title": "GRAND THEFT AUTO [COLLECTOR'S EDITION SET]",
+  },
+  Object {
+    "discs": 1,
+    "id": "SLES-03389",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SLES-03389.html",
+    "title": "GRAND THEFT AUTO - LONDON [SPECIAL EDITION]",
+  },
+  Object {
+    "discs": 1,
+    "id": "SLES-01714",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SLES-01714.html",
+    "title": "GRAND THEFT AUTO - MISSION PACK #1 - LONDON 1969",
+  },
+  Object {
+    "discs": 1,
+    "id": "SLES-01404",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SLES-01404.html",
+    "title": "GRAND THEFT AUTO 2",
+  },
+  Object {
+    "discs": 1,
+    "id": "SLES-02458",
+    "languages": Array [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+    ],
+    "link": "https://test-psxdata/games/P/G/SLES-02458.html",
+    "title": "GRAND THEFT AUTO 2",
+  },
+]
+`;
