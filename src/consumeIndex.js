@@ -85,6 +85,7 @@ module.exports = function consumeIndex(document) {
               .map((text) => (
                 text.textContent
                   .replace(/[\s\n]+/g, ' ')
+                  .trim()
               ));
 
             if (headingDetailEntries.length === 1) {
