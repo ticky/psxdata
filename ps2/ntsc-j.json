@@ -18637,8 +18637,12 @@
   },
   {
     "id": "SCPS-11027",
-    "title": "Mawazara",
-    "discs": 1
+    "title": "MAWAZA",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SCPS-11027.html"
   },
   {
     "id": "SLPS-25244",
@@ -18825,18 +18829,30 @@
   },
   {
     "id": "SLPS-25526",
-    "title": "Medical 91",
-    "discs": 1
+    "title": "MEDICAL 91",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPS-25526.html"
   },
   {
     "id": "SLPM-65684",
-    "title": "Meine Liebe - Yuubinaru Kioku",
-    "discs": 1
+    "title": "MEINE LIEBE - YUUBINARU KIOKU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-65684.html"
   },
   {
     "id": "SLPM-66076",
-    "title": "Meine Liebe - Yuubinaru Kioku (Konami The Best)",
-    "discs": 1
+    "title": "MEINE LIEBE - YUUBINARU KIOKU [KONAMI THE BEST]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-66076.html"
   },
   {
     "id": "SLPM-66247",
@@ -19033,18 +19049,30 @@
   },
   {
     "id": "SLPM-65939",
-    "title": "Memories Off - After Rain Vol.3 Sotsugyou",
-    "discs": 1
+    "title": "MEMORIES OFF - AFTER RAIN VOL.3 - SOTSUGYOU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-65939.html"
   },
   {
     "id": "SLPM-65938",
-    "title": "Memories Off - After Rain Vol.3 Sotsugyou (Limited Edition)",
-    "discs": 1
+    "title": "MEMORIES OFF - AFTER RAIN VOL.3 - SOTSUGYOU [LIMITED EDITION]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-65938.html"
   },
   {
     "id": "SLPM-66283",
-    "title": "Memories Off - After Rain Vol.3 Sotsugyou (Superlite 2000 Renai Adventure)",
-    "discs": 1
+    "title": "MEMORIES OFF - AFTER RAIN VOL.3 - SOTSUGYOU  [SUPERLITE 2000 RENAI ADVENTURE]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-66283.html"
   },
   {
     "id": "SLPS-25226",
@@ -19120,13 +19148,21 @@
   },
   {
     "id": "SLPM-65765",
-    "title": "Men at Work! 3",
-    "discs": 1
+    "title": "MEN AT WORK! 3",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-65765.html"
   },
   {
     "id": "SLPM-65764",
-    "title": "Men at Work! 3 (Limited Edition)",
-    "discs": 1
+    "title": "MEN AT WORK! 3 [LIMITED EDITION]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-65764.html"
   },
   {
     "id": "SLPM-67533",
@@ -19357,13 +19393,21 @@
   },
   {
     "id": "SLPM-65868",
-    "title": "Metal Saga - Sajin no Kusari",
-    "discs": 1
+    "title": "METAL SAGA - SAJIN NO KUSARI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-65868.html"
   },
   {
     "id": "SLPM-74226",
-    "title": "Metal Saga - Sajin no Kusari (Playstation 2 The Best)",
-    "discs": 1
+    "title": "METAL SAGA - SAJIN NO KUSARI [PLAYSTATION 2 TE BEST]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/M/SLPM-74226.html"
   },
   {
     "id": "SLPS-25650",
@@ -23625,16 +23669,21 @@
   },
   {
     "id": "SLKA-25222",
-    "title": "Rockman X8",
+    "title": "ROCKMAN X8",
     "discs": 1,
     "languages": [
       "kr"
-    ]
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/R/SLKA-25222.html"
   },
   {
     "id": "SLPM-65730",
-    "title": "Rockman X8",
-    "discs": 1
+    "title": "ROCKMAN X8",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/J/R/SLPM-65730.html"
   },
   {
     "id": "SLPM-62491",

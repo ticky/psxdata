@@ -5878,8 +5878,12 @@
   },
   {
     "id": "SLUS-20814",
-    "title": "Max Payne 2 - Fall of Max Payne",
-    "discs": 1
+    "title": "MAX PAYNE 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/U/M/SLUS-20814.html"
   },
   {
     "id": "SLUS-20017",
@@ -5901,8 +5905,12 @@
   },
   {
     "id": "SLUS-20657",
-    "title": "McFarlane Evil Prophecy",
-    "discs": 1
+    "title": "MCFARLANE'S EVIL PROPHECY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/U/M/SLUS-20657.html"
   },
   {
     "id": "SLUS-20105",
@@ -5975,8 +5983,12 @@
   },
   {
     "id": "SLUS-20960",
-    "title": "Megaman X8",
-    "discs": 1
+    "title": "MEGAMAN X8",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/U/M/SLUS-20960.html"
   },
   {
     "id": "SLUS-20373",
@@ -6041,8 +6053,12 @@
   },
   {
     "id": "SLUS-21293",
-    "title": "Metal Saga",
-    "discs": 1
+    "title": "METAL SAGA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/U/M/SLUS-21293.html"
   },
   {
     "id": [
