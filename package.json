@@ -1,9 +1,18 @@
 {
   "name": "psxdata",
   "version": "1.0.0",
-  "repository": "https://github.com/ticky/psxdata.git",
   "author": "Jessica Stokes <hello@jessicastokes.net>",
+  "description": "Data from the PSX Data Center, in serialized form",
+  "homepage": "https://github.com/ticky/psxdata",
+  "repository": "https://github.com/ticky/psxdata.git",
   "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "playstation",
+    "psx",
+    "data",
+    "games",
+    "listing"
+  ],
   "main": "index.js",
   "scripts": {
     "sync": "node bin/sync.js",
