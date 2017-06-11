@@ -8,12 +8,10 @@
     "sync": "node bin/sync.js",
     "test": "jest"
   },
-  "dependencies": {
-    "fs-then-native": "^2.0.0",
-    "jsdom": "^11.0.0"
-  },
   "devDependencies": {
-    "jest": "^20.0.4"
+    "fs-then-native": "^2.0.0",
+    "jest": "^20.0.4",
+    "jsdom": "^11.0.0"
   },
   "jest": {
     "collectCoverage": true
