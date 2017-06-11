@@ -4,6 +4,7 @@
   "repository": "https://github.com/ticky/psxdata.git",
   "author": "Jessica Stokes <hello@jessicastokes.net>",
   "license": "CC-BY-SA-4.0",
+  "main": "index.js",
   "scripts": {
     "sync": "node bin/sync.js",
     "test": "jest"
