@@ -1,0 +1,22 @@
+{
+  "id": "SLES-01218",
+  "title": "ISS Pro 98",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/I/SLES-01218.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/I/SLES-01218.jpg",
+  "commonTitle": "ISS Pro 98 / International Superstar Soccer Pro 98",
+  "genre": "Soccer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "KCET",
+  "publisher": "Konami",
+  "date": "1998-10-02"
+}

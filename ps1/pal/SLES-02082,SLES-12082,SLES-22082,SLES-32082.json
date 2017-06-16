@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLES-02082",
+    "SLES-12082",
+    "SLES-22082",
+    "SLES-32082"
+  ],
+  "title": "Final Fantasy VIII",
+  "discs": 4,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-02082.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-02082.jpg",
+  "commonTitle": "Final Fantasy VIII / FF8 / FFVIII",
+  "genre": "RPG",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "1999-10-27"
+}

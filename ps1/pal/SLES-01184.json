@@ -1,0 +1,24 @@
+{
+  "id": "SLES-01184",
+  "title": "Moto Racer 2",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-01184.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-01184.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Delphine Software International",
+  "publisher": "Electronic Arts",
+  "date": "1998-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES-02373",
+  "title": "Supercross 2000",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-02373.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-02373.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Electronic Arts",
+  "publisher": "Electronic Arts",
+  "date": "1999-11-09"
+}

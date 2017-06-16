@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-00975",
+    "SLES-10975"
+  ],
+  "title": "Resident Evil 2",
+  "includes": "Leon Disc + Claire Disc",
+  "discs": 2,
+  "languages": [
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-00975.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-00975.jpg",
+  "genre": "Survival Horror",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Capcom Production Studio 4",
+  "publisher": "Virgin Interactive",
+  "date": "1998-05-08"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "SLES-00049",
+  "title": "Rayman",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-00049.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-00049.jpg",
+  "genre": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Ubisoft Montpellier Studios",
+  "publisher": "Ubisoft Entertainment",
+  "date": "1995-12-10"
+}

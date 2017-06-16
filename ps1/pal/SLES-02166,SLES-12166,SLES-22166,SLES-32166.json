@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLES-02166",
+    "SLES-12166",
+    "SLES-22166",
+    "SLES-32166"
+  ],
+  "title": "Fear Effect",
+  "discs": 4,
+  "languages": [
+    "en",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-02166.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-02166.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Kronos Digital Entertainment, Inc.",
+  "publisher": "Eidos Interactive",
+  "date": "2000-03-17"
+}

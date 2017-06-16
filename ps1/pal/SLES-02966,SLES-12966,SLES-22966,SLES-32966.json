@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLES-02966",
+    "SLES-12966",
+    "SLES-22966",
+    "SLES-32966"
+  ],
+  "title": "Final Fantasy IX",
+  "discs": 4,
+  "languages": [
+    "fr"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-02966.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-02966.jpg",
+  "commonTitle": "Final Fantasy IX / FF9 / FFIX",
+  "genre": "RPG",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "2001-02-16"
+}

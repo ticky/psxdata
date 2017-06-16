@@ -1,0 +1,21 @@
+{
+  "id": "SLES-00933",
+  "title": "Newman Haas Racing",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/N/SLES-00933.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/N/SLES-00933.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Studio 33 Ltd",
+  "publisher": "Psygnosis",
+  "date": "1998-04-10"
+}

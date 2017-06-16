@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00080",
+  "title": "Supersonic Racers",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-00080.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-00080.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Supersonic Software",
+  "publisher": "Mindscape",
+  "date": "1996-10-15"
+}

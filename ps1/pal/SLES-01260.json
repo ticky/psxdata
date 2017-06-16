@@ -1,0 +1,21 @@
+{
+  "id": "SLES-01260",
+  "title": "B-Movie",
+  "discs": 1,
+  "languages": [
+    "en",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-01260.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-01260.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "King of the Jungle",
+  "publisher": "GT Interactive",
+  "date": "1998-11-30"
+}

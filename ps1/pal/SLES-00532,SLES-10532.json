@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-00532",
+    "SLES-10532"
+  ],
+  "title": "Command & Conquer Teil 1: Der Tiberiumkonflikt",
+  "includes": "GDI Disc + NOD Disc",
+  "discs": 2,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-00532.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-00532.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Westwood Studios",
+  "publisher": "Virgin Interactive",
+  "date": "1996-01-12"
+}

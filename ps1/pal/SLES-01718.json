@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01718",
+  "title": "Attack of the Saucerman!",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-01718.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-01718.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Fube Industries Ltd",
+  "publisher": "Psygnosis",
+  "date": "1999-07-01"
+}

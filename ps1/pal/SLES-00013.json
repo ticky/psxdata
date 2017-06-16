@@ -1,0 +1,21 @@
+{
+  "id": "SLES-00013",
+  "title": "Loaded",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/L/SLES-00013.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/L/SLES-00013.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Gremlin Interactive Ltd",
+  "publisher": "Gremlin Interactive",
+  "date": "1996-02-10"
+}

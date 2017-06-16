@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03285",
+  "title": "Chicken Run",
+  "discs": 1,
+  "languages": [
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-03285.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-03285.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Blitz Games",
+  "publisher": "Eidos Interactive",
+  "date": "2000-11-16"
+}

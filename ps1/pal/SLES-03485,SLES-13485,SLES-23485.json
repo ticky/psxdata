@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLES-03485",
+    "SLES-13485",
+    "SLES-23485"
+  ],
+  "title": "Family Games Compendium",
+  "discs": 3,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-03485.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-03485.jpg",
+  "genre": "Action",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Interactive Entertainment Ltd",
+  "publisher": "Midas Interactive",
+  "date": "2001-06-30"
+}

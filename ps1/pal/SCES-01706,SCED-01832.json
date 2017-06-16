@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SCES-01706",
+    "SCED-01832"
+  ],
+  "title": "Ridge Racer Type 4",
+  "discs": 2,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SCES-01706.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SCES-01706.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Namco",
+  "publisher": "Sony Computer Entertaiment Europe",
+  "date": "1999-02-10"
+}

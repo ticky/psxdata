@@ -1,0 +1,23 @@
+{
+  "id": "SCES-03086",
+  "title": "Ms Pac-Man - Maze Madness",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SCES-03086.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SCES-03086.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Namco",
+  "publisher": "Namco",
+  "date": "2000-12-17"
+}

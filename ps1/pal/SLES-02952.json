@@ -1,0 +1,22 @@
+{
+  "id": "SLES-02952",
+  "title": "Goldie",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-02952.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-02952.jpg",
+  "genre": "Puzzle",
+  "style": "Educational",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "The Code Monkeys Ltd",
+  "publisher": "Midas Interactive",
+  "date": "2000-09-01"
+}

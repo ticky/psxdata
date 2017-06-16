@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00334",
+  "title": "Bedlam",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-00334.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00334.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Mirage Technologies (Multimedia) Ltd.",
+  "publisher": "GT Interactive Software Europe Ltd",
+  "date": "1997-04-07"
+}

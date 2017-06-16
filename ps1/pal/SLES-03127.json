@@ -1,0 +1,23 @@
+{
+  "id": "SLES-03127",
+  "title": "Looney Tunes Racing",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/L/SLES-03127.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/L/SLES-03127.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Circus Freak Studios",
+  "publisher": "Infogrames",
+  "date": "2000-12-10"
+}

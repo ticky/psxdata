@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00032",
+  "title": "Grand Theft Auto",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-00032.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-00032.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Visual Sciences Ltd. / DMA Design",
+  "publisher": "BMG Interactive",
+  "date": "1997-12-01"
+}

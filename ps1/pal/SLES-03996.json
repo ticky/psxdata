@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03996",
+  "title": "Shrek - Treasure Hunt",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-03996.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-03996.jpg",
+  "genre": "Action",
+  "style": "Mini Games",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "The Code Monkeys",
+  "publisher": "TDK Impulse",
+  "date": "2002-11-15"
+}

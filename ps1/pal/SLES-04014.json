@@ -1,0 +1,23 @@
+{
+  "id": "SLES-04014",
+  "title": "Pinobee",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-04014.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-04014.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Artoon",
+  "publisher": "Hudson Soft",
+  "date": "2003-10-10"
+}

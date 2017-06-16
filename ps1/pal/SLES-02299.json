@@ -1,0 +1,24 @@
+{
+  "id": "SLES-02299",
+  "title": "NBA Basketball 2000",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/N/SLES-02299.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/N/SLES-02299.jpg",
+  "commonTitle": "Fox Sports - NBA Basketball 2000",
+  "genre": "Sports",
+  "style": "Basketball",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Radical Entertaiment",
+  "publisher": "Fox Interactive",
+  "date": "1999-10-31"
+}

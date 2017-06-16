@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00704",
+  "title": "Frogger",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-00704.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-00704.jpg",
+  "genre": "Action",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Millenium Interactive",
+  "publisher": "Hasbro Interactive",
+  "date": "1997-11-10"
+}

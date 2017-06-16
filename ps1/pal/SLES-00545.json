@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00545",
+  "title": "V2000",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/V/SLES-00545.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/V/SLES-00545.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Frontier Developments",
+  "publisher": "Grolier Interactive",
+  "date": "1998-10-15"
+}

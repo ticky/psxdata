@@ -1,0 +1,21 @@
+{
+  "id": "SLES-00953",
+  "title": "Pax Corpus",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00953.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00953.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Cryo",
+  "publisher": "Cryo",
+  "date": "1997-10-01"
+}

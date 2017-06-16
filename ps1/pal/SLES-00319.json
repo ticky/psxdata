@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00319",
+  "title": "Player Manager",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00319.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00319.jpg",
+  "genre": "Soccer Management",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Anco",
+  "publisher": "Funsoft",
+  "date": "1997-03-10"
+}

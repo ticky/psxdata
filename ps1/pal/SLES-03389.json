@@ -1,0 +1,23 @@
+{
+  "id": "SLES-03389",
+  "title": "Grand Theft Auto - London [Special Edition]",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-03389.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-03389.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Visual Sciences Ltd. / DMA Design",
+  "publisher": "Take 2 Interactive, Inc",
+  "date": "2000-03-10"
+}

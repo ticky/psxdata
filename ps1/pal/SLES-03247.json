@@ -1,0 +1,25 @@
+{
+  "id": "SLES-03247",
+  "title": "Warm Up!",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "pt",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/W/SLES-03247.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/W/SLES-03247.jpg",
+  "commonTitle": "Warm Up! / Warm Up! GP 2001",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Lankhor",
+  "publisher": "Microids",
+  "date": "2001-02-09"
+}

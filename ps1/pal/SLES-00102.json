@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00102",
+  "title": "Batman & Robin",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-00102.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00102.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Probe Entertainment Limited",
+  "publisher": "Acclaim Entertainment",
+  "date": "1998-01-07"
+}

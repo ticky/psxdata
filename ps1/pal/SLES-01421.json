@@ -1,0 +1,24 @@
+{
+  "id": "SLES-01421",
+  "title": "Formula 1 '98",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "fi"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-01421.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-01421.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Visual Sciences",
+  "publisher": "Psygnosis",
+  "date": "1998-10-15"
+}

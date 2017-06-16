@@ -1,0 +1,22 @@
+{
+  "id": "SLES-02958",
+  "title": "Hunchback of Notredame",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/H/SLES-02958.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/H/SLES-02958.jpg",
+  "commonTitle": "Hunchback of Notredame / Hunchback of Notre Dame",
+  "genre": "Puzzle",
+  "style": "Educational",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "The Code Monkeys Ltd.",
+  "publisher": "Midas Interactive",
+  "date": "2002-09-14"
+}

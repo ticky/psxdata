@@ -1,0 +1,23 @@
+{
+  "id": "SLES-04129",
+  "title": "Dance Europe",
+  "discs": 1,
+  "languages": [
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-04129.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-04129.jpg",
+  "genre": "Dancing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Broadsword Interactive",
+  "publisher": "Big Ben Interactive",
+  "date": "2003-11-13"
+}

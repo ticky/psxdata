@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03209",
+  "title": "Kart Challenge",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/K/SLES-03209.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/K/SLES-03209.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Interactive Entertainment",
+  "publisher": "Midas Interactive",
+  "date": "2001-03-30"
+}

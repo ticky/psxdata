@@ -1,0 +1,21 @@
+{
+  "id": "SLES-00115",
+  "title": "Hi-Octane",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/H/SLES-00115.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/H/SLES-00115.jpg",
+  "genre": "Racing",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Bullfrog Productions Ltd",
+  "publisher": "Electronic Arts",
+  "date": "1995-12-01"
+}

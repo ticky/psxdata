@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-01007",
+    "SLES-11007"
+  ],
+  "title": "Command & Conquer - Alarmstufe Rot",
+  "includes": "Allies Disc + Soviet Disc",
+  "discs": 2,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-01007.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-01007.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Westwood Studios",
+  "publisher": "Virgin Interactive",
+  "date": "1997-11-15"
+}

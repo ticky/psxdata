@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02808",
+  "title": "Beach Volleyball",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-02808.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-02808.jpg",
+  "genre": "Sports",
+  "style": "Beach Volleyball",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Carapace",
+  "publisher": "Infogrames",
+  "date": "2000-10-27"
+}

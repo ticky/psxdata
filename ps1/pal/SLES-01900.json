@@ -1,0 +1,22 @@
+{
+  "id": "SLES-01900",
+  "title": "Centipede",
+  "discs": 1,
+  "languages": [
+    "de",
+    "it",
+    "fr",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-01900.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-01900.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Hasbro Interactive",
+  "publisher": "Hasbro Interactive",
+  "date": "1999-06-01"
+}

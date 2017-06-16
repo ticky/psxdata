@@ -1,0 +1,23 @@
+{
+  "id": "SLES-03157",
+  "title": "Spec Ops - Ranger Elite",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-03157.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-03157.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Runecraft",
+  "publisher": "Take 2 Interactive / Talonsoft",
+  "date": "2003-02-07"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "SLES-00118",
+  "title": "Power Serve",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00118.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00118.jpg",
+  "genre": "Tennis",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "SPS",
+  "publisher": "Ocean",
+  "date": "1996-02-09"
+}

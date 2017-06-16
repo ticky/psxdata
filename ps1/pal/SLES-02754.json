@@ -1,0 +1,19 @@
+{
+  "id": "SLES-02754",
+  "title": "Vagrant Story",
+  "discs": 1,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/V/SLES-02754.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/V/SLES-02754.jpg",
+  "genre": "RPG",
+  "style": "Action",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "2000-06-23"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00805",
+  "title": "Perfect Assassin",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00805.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00805.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Synthetic Dimensions / Veritas Productions",
+  "publisher": "Grolier Interactive",
+  "date": "1998-06-01"
+}

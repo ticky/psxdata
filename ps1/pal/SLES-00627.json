@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00627",
+  "title": "Theme Hospital",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00627.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00627.jpg",
+  "genre": "Strategy",
+  "style": "Building",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Bullfrog Productions",
+  "publisher": "Electronic Arts",
+  "date": "1998-02-10"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02973",
+  "title": "The Mummy",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-02973.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-02973.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Rebellion",
+  "publisher": "Konami",
+  "date": "2000-08-18"
+}

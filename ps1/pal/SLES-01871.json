@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01871",
+  "title": "Evo's Space Adventures",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/E/SLES-01871.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/E/SLES-01871.jpg",
+  "genre": "Adventure",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Runecraft",
+  "publisher": "Take 2 Interactive",
+  "date": "2000-06-15"
+}

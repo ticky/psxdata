@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03682",
+  "title": "David Beckham Soccer",
+  "discs": 1,
+  "languages": [
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-03682.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-03682.jpg",
+  "genre": "Sports",
+  "style": "Soccer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Rage Software",
+  "publisher": "Rage Software",
+  "date": "2001-11-23"
+}

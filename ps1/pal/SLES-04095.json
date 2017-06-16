@@ -1,0 +1,23 @@
+{
+  "id": "SLES-04095",
+  "title": "XS Moto",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/X/SLES-04095.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/X/SLES-04095.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Interactive Entertainment / Bubble Boy Limited",
+  "publisher": "XS Games LLC",
+  "date": "2004-10-07"
+}

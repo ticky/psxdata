@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00213",
+  "title": "Syndicate Wars",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-00213.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-00213.jpg",
+  "genre": "Action",
+  "style": "Strategy",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Bullfrog",
+  "publisher": "Electronic Arts",
+  "date": "1997-07-17"
+}

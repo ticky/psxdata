@@ -1,0 +1,22 @@
+{
+  "id": "SLES-02194",
+  "title": "Sled Storm",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-02194.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-02194.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "EA Canada",
+  "publisher": "Electronic Arts",
+  "date": "1999-09-17"
+}

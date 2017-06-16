@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00445",
+  "title": "Die Hard Trilogy",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-00445.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-00445.jpg",
+  "genre": "Action",
+  "style": "Shooting",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Probe Entertainment Limited",
+  "publisher": "Fox Interactive / Electronic Arts",
+  "date": "1996-11-15"
+}

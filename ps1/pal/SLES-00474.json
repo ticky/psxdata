@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00474",
+  "title": "Agent Armstrong",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-00474.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-00474.jpg",
+  "genre": "Shooter",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "King of the Jungle",
+  "publisher": "Virgin Interactive",
+  "date": "1997-10-15"
+}

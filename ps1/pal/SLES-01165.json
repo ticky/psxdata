@@ -1,0 +1,25 @@
+{
+  "id": "SLES-01165",
+  "title": "Test Drive 5",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "nl",
+    "de",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-01165.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-01165.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Pitbull Syndicate",
+  "publisher": "Electronic Arts",
+  "date": "1998-10-09"
+}

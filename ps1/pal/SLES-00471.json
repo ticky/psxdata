@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00471",
+  "title": "SimCity 2000",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-00471.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-00471.jpg",
+  "commonTitle": "SimCity 2000 / Sim City 2000",
+  "genre": "Strategy",
+  "style": "Constructing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Maxis",
+  "publisher": "Maxis",
+  "date": "1998-11-10"
+}

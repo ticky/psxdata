@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01244",
+  "title": "Assault",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-01244.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-01244.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Candle Light Studios",
+  "publisher": "Telstar Electronic Studios",
+  "date": "1998-11-19"
+}

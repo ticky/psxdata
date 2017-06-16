@@ -1,0 +1,20 @@
+{
+  "id": "SLES-00015",
+  "title": "Actua Golf",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-00015.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-00015.jpg",
+  "genre": "Golf",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Gremlin Interactive",
+  "publisher": "Gremlin Interactive",
+  "date": "1996-10-15"
+}

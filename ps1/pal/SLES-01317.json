@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01317",
+  "title": "Virus - It's Aware",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/V/SLES-01317.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/V/SLES-01317.jpg",
+  "genre": "Action",
+  "style": "Survival Horror",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Cryo Interactive",
+  "publisher": "Cryo Interactive",
+  "date": "1999-06-25"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "SLES-01302",
+  "title": "Viper",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/V/SLES-01302.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/V/SLES-01302.jpg",
+  "genre": "Shooter",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "X-ample",
+  "publisher": "Ocean",
+  "date": "1998-07-15"
+}

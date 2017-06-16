@@ -1,0 +1,21 @@
+{
+  "id": "SLES-03250",
+  "title": "Iron Soldier 3",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/I/SLES-03250.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/I/SLES-03250.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Eclipse Software",
+  "publisher": "Telegames",
+  "date": "2000-12-21"
+}

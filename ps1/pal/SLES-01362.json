@@ -1,0 +1,24 @@
+{
+  "id": "SLES-01362",
+  "title": "Le Mans 24 Hours",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/games/P/L/SLES-01362.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/L/SLES-01362.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Eutechnyx",
+  "publisher": "Infogrames",
+  "date": "2000-08-25"
+}

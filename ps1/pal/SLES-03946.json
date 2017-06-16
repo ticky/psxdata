@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03946",
+  "title": "Pro Evolution Soccer 2",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-03946.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-03946.jpg",
+  "commonTitle": "PES 2",
+  "genre": "Sports",
+  "style": "Soccer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "date": "2002-10-25"
+}

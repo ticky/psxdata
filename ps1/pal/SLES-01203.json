@@ -1,0 +1,21 @@
+{
+  "id": "SLES-01203",
+  "title": "Puma Street Soccer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-01203.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-01203.jpg",
+  "genre": "Soccer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "PixelStorm",
+  "publisher": "Sunsoft",
+  "date": "1999-05-10"
+}

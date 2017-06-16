@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01021",
+  "title": "Sensible Soccer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-01021.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-01021.jpg",
+  "genre": "Soccer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Sensible Software / Krisalis Software",
+  "publisher": "GT Interactive",
+  "date": "1999-01-08"
+}

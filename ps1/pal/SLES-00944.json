@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00944",
+  "title": "One",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/O/SLES-00944.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/O/SLES-00944.jpg",
+  "genre": "Action",
+  "style": "Platform",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Visual Concepts",
+  "publisher": "ASC Games",
+  "date": "1998-03-11"
+}

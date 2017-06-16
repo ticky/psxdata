@@ -1,0 +1,21 @@
+{
+  "id": "SLES-00300",
+  "title": "Dragonheart Fire & Steel",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-00300.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-00300.jpg",
+  "genre": "Action",
+  "style": "Beat'em up",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Funcom",
+  "publisher": "Acclaim",
+  "date": "1996-11-30"
+}

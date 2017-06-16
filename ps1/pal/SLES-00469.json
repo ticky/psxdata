@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00469",
+  "title": "Moto Racer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-00469.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-00469.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Delphine Software International",
+  "publisher": "Electronic Arts",
+  "date": "1997-11-30"
+}

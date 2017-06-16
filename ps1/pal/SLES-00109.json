@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00109",
+  "title": "The Incredible Hulk - The Pantheon Saga",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00109.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00109.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Attention To Detail Limited",
+  "publisher": "Eidos Interactive",
+  "date": "1996-12-12"
+}

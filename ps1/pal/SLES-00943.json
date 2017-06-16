@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00943",
+  "title": "Lucky Luke",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/L/SLES-00943.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/L/SLES-00943.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Ocean",
+  "publisher": "Infogrames",
+  "date": "1998-11-03"
+}

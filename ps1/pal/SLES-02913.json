@@ -1,0 +1,22 @@
+{
+  "id": "SLES-02913",
+  "title": "Alien Resurrection",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-02913.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-02913.jpg",
+  "genre": "First Person Shooter",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Argonaut Games",
+  "publisher": "Acclaim",
+  "date": "2000-01-12"
+}

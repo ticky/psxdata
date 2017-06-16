@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02017",
+  "title": "4X4 World Trophy",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/0-9/SLES-02017.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/0-9/SLES-02017.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Accolade",
+  "publisher": "Infogrames",
+  "date": "2000-04-19"
+}

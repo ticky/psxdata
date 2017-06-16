@@ -1,0 +1,27 @@
+{
+  "id": [
+    "SCES-02380",
+    "SCES-12380"
+  ],
+  "title": "Gran Turismo 2 - The Real Driving Simulator",
+  "includes": "Arcade Disc + Simulation Disc",
+  "discs": 2,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SCES-02380.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SCES-02380.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Polyphony Digital",
+  "publisher": "Sony",
+  "date": "2000-01-28"
+}

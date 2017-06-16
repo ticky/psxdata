@@ -1,0 +1,25 @@
+{
+  "id": "SLES-00903",
+  "title": "The Lost World - Jurassic Park",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00903.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00903.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Dreamworks Interactive",
+  "publisher": "Electronic Arts",
+  "date": "1998-09-15"
+}

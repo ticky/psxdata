@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-02867",
+    "SLES-12867"
+  ],
+  "title": "Strider 2",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-02867.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-02867.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Capcom Production Studio 1 & Capcom Production Studio 2",
+  "publisher": "Virgin Interactive",
+  "date": "2000-12-15"
+}

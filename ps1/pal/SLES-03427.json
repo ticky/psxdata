@@ -1,0 +1,24 @@
+{
+  "id": "SLES-03427",
+  "title": "Championship Surfer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-03427.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-03427.jpg",
+  "genre": "Sports",
+  "style": "Surf",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Krome Studios",
+  "publisher": "Game Studios",
+  "date": "2001-07-20"
+}

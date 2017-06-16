@@ -1,0 +1,21 @@
+{
+  "id": "SLES-03665",
+  "title": "Harry Potter & The Philosopher's Stone",
+  "discs": 1,
+  "languages": [
+    "en",
+    "da",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/H/SLES-03665.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/H/SLES-03665.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Argonaut Games",
+  "publisher": "Electronic Arts",
+  "date": "2001-11-16"
+}

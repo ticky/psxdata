@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00218",
+  "title": "Myst",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-00218.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-00218.jpg",
+  "genre": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Cyan Worlds",
+  "publisher": "Psygnosis",
+  "date": "1996-11-15"
+}

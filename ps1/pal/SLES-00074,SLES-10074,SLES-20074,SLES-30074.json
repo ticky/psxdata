@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLES-00074",
+    "SLES-10074",
+    "SLES-20074",
+    "SLES-30074"
+  ],
+  "title": "Wing Commander III - Heart of the Tiger",
+  "discs": 4,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/W/SLES-00074.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/W/SLES-00074.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Origin Systems",
+  "publisher": "Electronic Arts",
+  "date": "1996-03-29"
+}

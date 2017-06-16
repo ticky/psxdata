@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SCES-03840",
+    "SCES-13840"
+  ],
+  "title": "Final Fantasy Anthology",
+  "includes": "Final Fantasy IV + Final Fantasy V",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SCES-03840.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SCES-03840.jpg",
+  "genre": "RPG",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Sony",
+  "date": "2002-01-15"
+}

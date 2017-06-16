@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02782",
+  "title": "Speedball 2100",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-02782.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-02782.jpg",
+  "genre": "Sports",
+  "style": "Action",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "The Bitmap Brothers",
+  "publisher": "Empire Interactive, Inc",
+  "date": "2000-09-29"
+}

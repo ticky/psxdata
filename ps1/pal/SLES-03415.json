@@ -1,0 +1,24 @@
+{
+  "id": "SLES-03415",
+  "title": "Europe Racer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/E/SLES-03415.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/E/SLES-03415.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Davilex",
+  "publisher": "Davilex",
+  "date": "2001-08-31"
+}

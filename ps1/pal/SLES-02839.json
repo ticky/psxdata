@@ -1,0 +1,22 @@
+{
+  "id": "SLES-02839",
+  "title": "Mike Tyson Boxing",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-02839.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-02839.jpg",
+  "genre": "Boxing",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Codemasters",
+  "publisher": "Proein",
+  "date": "2000-03-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00888",
+  "title": "Shadow Master",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-00888.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-00888.jpg",
+  "genre": "First person shooter",
+  "style": "Action",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Hammerhead",
+  "publisher": "Psygnosis",
+  "date": "1998-01-15"
+}

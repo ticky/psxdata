@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00072",
+  "title": "Theme Park",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00072.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00072.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Bullfrog",
+  "publisher": "Electronic Arts",
+  "date": "1995-10-15"
+}

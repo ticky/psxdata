@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02854",
+  "title": "Break Out",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-02854.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-02854.jpg",
+  "commonTitle": "Breakout",
+  "genre": "Breakout",
+  "style": "Mini Games",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Supersonic Software Ltd",
+  "publisher": "Atari / Hasbro Interactive",
+  "date": "2000-09-23"
+}

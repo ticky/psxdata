@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01300",
+  "title": "The Unholy War",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-01300.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-01300.jpg",
+  "genre": "Action",
+  "style": "Strategy",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Toys for Bob",
+  "publisher": "Eidos Interactive",
+  "date": "1998-09-30"
+}

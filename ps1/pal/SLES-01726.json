@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01726",
+  "title": "Bugs Bunny Lost in Time",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-01726.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-01726.jpg",
+  "genre": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Behaviour Interactive",
+  "publisher": "Infogrames",
+  "date": "1999-06-15"
+}

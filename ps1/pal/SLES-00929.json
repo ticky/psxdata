@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00929",
+  "title": "Psybadek",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00929.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00929.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Psygnosis",
+  "publisher": "Psygnosis",
+  "date": "1998-11-01"
+}

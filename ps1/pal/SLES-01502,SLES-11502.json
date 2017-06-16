@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-01502",
+    "SLES-11502"
+  ],
+  "title": "Oddworld L'exode D'Abe",
+  "discs": 2,
+  "languages": [
+    "fr"
+  ],
+  "link": "http://psxdatacenter.com/games/P/O/SLES-01502.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/O/SLES-01502.jpg",
+  "genre": "Adventure",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Oddworld Inhabitants",
+  "publisher": "GT Interactive Software",
+  "date": "1999-11-15"
+}

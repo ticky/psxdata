@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00189",
+  "title": "Adidas Power Soccer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-00189.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-00189.jpg",
+  "genre": "Soccer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Psygnosis",
+  "publisher": "Psygnosis",
+  "date": "1996-06-10"
+}

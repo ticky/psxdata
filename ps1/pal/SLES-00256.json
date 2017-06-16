@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00256",
+  "title": "Trash it",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00256.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00256.jpg",
+  "genre": "Action",
+  "style": "Puzzle",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Rage Software Ltd",
+  "publisher": "GT Interactive Software Corp",
+  "date": "1997-07-10"
+}

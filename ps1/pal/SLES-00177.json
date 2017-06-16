@@ -1,0 +1,29 @@
+{
+  "id": "SLES-00177",
+  "title": "Return Fire",
+  "discs": 1,
+  "languages": [
+    "en",
+    "jp",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "pt",
+    "kr",
+    "ru",
+    "es-MX",
+    "Ir"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-00177.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-00177.jpg",
+  "genre": "Action",
+  "style": "Strategy",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Silent Software",
+  "publisher": "Time Warner Interactive",
+  "date": "1996-09-15"
+}

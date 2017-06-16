@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02501",
+  "title": "F1 Racing Championship",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-02501.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-02501.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Video System",
+  "publisher": "UBI Soft Entertainment",
+  "date": "2000-09-15"
+}

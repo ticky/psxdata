@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00483",
+  "title": "Worms Pinball",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/W/SLES-00483.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/W/SLES-00483.jpg",
+  "genre": "Pinball",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Team 17",
+  "publisher": "Infogrames",
+  "date": "1999-11-01"
+}

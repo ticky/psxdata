@@ -1,0 +1,24 @@
+{
+  "id": "SLES-02458",
+  "title": "Grand Theft Auto 2",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-02458.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-02458.jpg",
+  "commonTitle": "GTA 2",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "DMA Design",
+  "publisher": "Rockstar Games",
+  "date": "2002-03-08"
+}

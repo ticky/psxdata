@@ -1,0 +1,24 @@
+{
+  "id": "SLES-03234",
+  "title": "The Mission",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-03234.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-03234.jpg",
+  "genre": "Action",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Microids",
+  "publisher": "Microids",
+  "date": "2000-12-22"
+}

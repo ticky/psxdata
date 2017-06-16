@@ -1,0 +1,21 @@
+{
+  "id": "SLES-01562",
+  "title": "Hellnight",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/H/SLES-01562.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/H/SLES-01562.jpg",
+  "genre": "Adventure",
+  "style": "Survival Horror",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Atlus",
+  "publisher": "Konami",
+  "date": "1998-06-11"
+}

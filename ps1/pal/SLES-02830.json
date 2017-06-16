@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02830",
+  "title": "Moho",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-02830.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-02830.jpg",
+  "genre": "Action",
+  "style": "Sports",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Lost Toys Ltd",
+  "publisher": "Take 2 Interactive",
+  "date": "2000-08-04"
+}

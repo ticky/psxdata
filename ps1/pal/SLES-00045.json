@@ -1,0 +1,20 @@
+{
+  "id": "SLES-00045",
+  "title": "Casper",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-00045.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-00045.jpg",
+  "genre": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Interplay",
+  "publisher": "Interplay",
+  "date": "1996-10-15"
+}

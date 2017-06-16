@@ -1,0 +1,23 @@
+{
+  "id": "SCES-01078",
+  "title": "Bomberman World",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SCES-01078.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SCES-01078.jpg",
+  "genre": "Action",
+  "style": "Maze",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Hudson Soft",
+  "publisher": "Sony",
+  "date": "1998-08-15"
+}

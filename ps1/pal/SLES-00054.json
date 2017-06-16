@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00054",
+  "title": "X-Com Enemy Unknown",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/X/SLES-00054.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/X/SLES-00054.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "MicroProse Software, Inc",
+  "publisher": "MicroProse Software, Inc",
+  "date": "1995-11-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SLES-02468",
+  "title": "Wacky Races",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/W/SLES-02468.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/W/SLES-02468.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Appaloosa Interactive Corp",
+  "publisher": "Infogrames",
+  "date": "2000-10-19"
+}

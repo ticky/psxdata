@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00548",
+  "title": "Fantastic Four",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-00548.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-00548.jpg",
+  "genre": "Action",
+  "style": "Beat'em up",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Probe Entertainment Limited",
+  "publisher": "Acclaim Entertaiment",
+  "date": "1997-08-30"
+}

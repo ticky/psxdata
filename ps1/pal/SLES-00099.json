@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00099",
+  "title": "International Moto X",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/I/SLES-00099.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/I/SLES-00099.jpg",
+  "genre": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Graftgold",
+  "publisher": "Time Warner Interactive",
+  "date": "1996-10-15"
+}

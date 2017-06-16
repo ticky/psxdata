@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00945",
+  "title": "Monopoly",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-00945.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-00945.jpg",
+  "genre": "Board",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Gremlin Graphics",
+  "publisher": "Hasbro Interactive",
+  "date": "1997-11-15"
+}

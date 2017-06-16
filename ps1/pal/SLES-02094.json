@@ -1,0 +1,21 @@
+{
+  "id": "SLES-02094",
+  "title": "Ronin Blade",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-02094.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-02094.jpg",
+  "genre": "Action",
+  "style": "Beat'em up",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "KCE Sapporo",
+  "publisher": "Konami",
+  "date": "1999-09-15"
+}

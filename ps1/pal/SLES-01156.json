@@ -1,0 +1,22 @@
+{
+  "id": "SLES-01156",
+  "title": "Diablo",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-01156.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-01156.jpg",
+  "genre": "Action",
+  "style": "RPG",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Climax Group",
+  "publisher": "Electronic Arts / Blizzard Entertaiment",
+  "date": "1998-04-15"
+}

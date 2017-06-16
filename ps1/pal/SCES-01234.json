@@ -1,0 +1,18 @@
+{
+  "id": "SCES-01234",
+  "title": "Spice World",
+  "discs": 1,
+  "languages": [
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SCES-01234.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SCES-01234.jpg",
+  "genre": "Music",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "SCE Studio Soho",
+  "publisher": "Sony",
+  "date": "1998-07-19"
+}

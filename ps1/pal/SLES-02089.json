@@ -1,0 +1,24 @@
+{
+  "id": "SLES-02089",
+  "title": "360 - Three Sixty",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/0-9/SLES-02089.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/0-9/SLES-02089.jpg",
+  "genre": "Racing",
+  "style": "Action",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Smart Dog",
+  "publisher": "Cryo Interactive",
+  "date": "1999-07-23"
+}

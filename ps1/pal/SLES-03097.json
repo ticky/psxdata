@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03097",
+  "title": "Disney's Donald Duck Quack Attack",
+  "discs": 1,
+  "languages": [
+    "da",
+    "sv",
+    "no",
+    "fi"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-03097.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-03097.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Disney Interactive",
+  "publisher": "UBI Soft Entertainment",
+  "date": "2000-11-16"
+}

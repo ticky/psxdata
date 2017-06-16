@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02020",
+  "title": "Pong",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "no",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-02020.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-02020.jpg",
+  "genre": "Action",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Supersonic Software Ltd",
+  "publisher": "Hasbro Interactive / Atari",
+  "date": "1999-12-15"
+}

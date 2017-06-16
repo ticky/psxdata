@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-00998",
+    "SLES-10998"
+  ],
+  "title": "Street Fighter Collection",
+  "includes": "Street Fighter Collection + Street Fighter Alpha 2 Dash",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-00998.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-00998.jpg",
+  "genre": "Fighting",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Capcom",
+  "publisher": "Virgin Interactive",
+  "date": "1998-07-10"
+}

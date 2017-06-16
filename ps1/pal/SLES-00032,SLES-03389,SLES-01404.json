@@ -1,0 +1,28 @@
+{
+  "id": [
+    "SLES-00032",
+    "SLES-03389",
+    "SLES-01404"
+  ],
+  "title": "Grand Theft Auto - Collector's Edition",
+  "includes": "Grand Theft Auto Disc + Mission Pack #1 - London 1969 + Grand Theft Auto 2 Disc",
+  "discs": 3,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-00032CE.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-00032CE.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "DMA Design",
+  "publisher": "Rockstar Games",
+  "date": "2002-12-17"
+}

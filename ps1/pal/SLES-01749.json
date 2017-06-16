@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01749",
+  "title": "The Smurfs",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-01749.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-01749.jpg",
+  "genre": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Doki Denki Studio",
+  "publisher": "Infogrames",
+  "date": "1999-10-06"
+}

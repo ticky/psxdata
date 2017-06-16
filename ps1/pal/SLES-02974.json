@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02974",
+  "title": "The Grinch",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-02974.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-02974.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Artificial Mind and Movement (A2M)",
+  "publisher": "Konami",
+  "date": "2000-12-08"
+}

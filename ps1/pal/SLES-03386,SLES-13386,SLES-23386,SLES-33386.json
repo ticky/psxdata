@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLES-03386",
+    "SLES-13386",
+    "SLES-23386",
+    "SLES-33386"
+  ],
+  "title": "Fear Effect 2 - Retro Helix",
+  "discs": 4,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-03386.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-03386.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Kronos Digital Entertainment, Inc",
+  "publisher": "Eidos Interactive",
+  "date": "2001-01-22"
+}

@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-01006",
+    "SLES-11006"
+  ],
+  "title": "Command & Conquer - Alerte Rouge",
+  "includes": "Allies Disc + Soviet Disc",
+  "discs": 2,
+  "languages": [
+    "fr"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-01006.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-01006.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Westwood Studios",
+  "publisher": "Virgin Interactive",
+  "date": "1997-11-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SLES-01103",
+  "title": "Rat Attack",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-01103.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-01103.jpg",
+  "genre": "Action",
+  "style": "Puzzle",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Pure Entertainment",
+  "publisher": "Mindscape",
+  "date": "1999-10-15"
+}

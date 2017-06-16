@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00978",
+  "title": "WarGames - Defcon 1",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/W/SLES-00978-2.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/W/SLES-00978-2.jpg",
+  "genre": "Action",
+  "style": "Strategy",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Interactive Studios Ltd",
+  "publisher": "MGM Interactive",
+  "date": "1998-05-10"
+}

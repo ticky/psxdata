@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00168",
+  "title": "PO'ed",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00168.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00168.jpg",
+  "genre": "First Person Shooter",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Any Channel",
+  "publisher": "Accolade / Warner Interactive",
+  "date": "1996-11-10"
+}

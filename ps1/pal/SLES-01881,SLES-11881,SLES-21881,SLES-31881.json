@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLES-01881",
+    "SLES-11881",
+    "SLES-21881",
+    "SLES-31881"
+  ],
+  "title": "Capcom Generations",
+  "discs": 4,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-01881.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-01881.jpg",
+  "genre": "Action",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Capcom",
+  "publisher": "Virgin Interactive",
+  "date": "1999-09-03"
+}

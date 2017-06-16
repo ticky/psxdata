@@ -1,0 +1,22 @@
+{
+  "id": "SLES-02961",
+  "title": "Anastasia",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-02961.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-02961.jpg",
+  "genre": "Puzzle",
+  "style": "Colouring Book",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "The Code Monkeys Ltd",
+  "publisher": "Midas Interactive",
+  "date": "2001-04-06"
+}

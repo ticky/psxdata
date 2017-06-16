@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-01503",
+    "SLES-11503"
+  ],
+  "title": "Oddworld Abe's Exoddus",
+  "discs": 2,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/O/SLES-01503.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/O/SLES-01503.jpg",
+  "genre": "Adventure",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Oddworld Inhabitants",
+  "publisher": "GT Interactive Software",
+  "date": "1999-11-15"
+}

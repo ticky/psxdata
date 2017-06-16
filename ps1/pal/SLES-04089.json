@@ -1,0 +1,23 @@
+{
+  "id": "SLES-04089",
+  "title": "Jigsaw Madness",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/J/SLES-04089.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/J/SLES-04089.jpg",
+  "genre": "Puzzle",
+  "style": "Jigsaw",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Nippon Ichi Software Inc",
+  "publisher": "XS Games LLC",
+  "date": "2002-12-01"
+}

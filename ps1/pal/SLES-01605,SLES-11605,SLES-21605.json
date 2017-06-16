@@ -1,0 +1,25 @@
+{
+  "id": [
+    "SLES-01605",
+    "SLES-11605",
+    "SLES-21605"
+  ],
+  "title": "Atlantis - The Lost Tales",
+  "discs": 3,
+  "languages": [
+    "en",
+    "es",
+    "nl",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-01605.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-01605.jpg",
+  "genre": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Cryo Interactive Entertainment",
+  "publisher": "Cryo Interactive Entertainment",
+  "date": "1998-10-01"
+}

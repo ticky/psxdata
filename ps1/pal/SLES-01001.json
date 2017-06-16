@@ -1,0 +1,21 @@
+{
+  "id": "SLES-01001",
+  "title": "Maximum Force",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-01001.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-01001.jpg",
+  "genre": "Gun",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Tantalus Entertainment",
+  "publisher": "Midway",
+  "date": "1997-11-15"
+}

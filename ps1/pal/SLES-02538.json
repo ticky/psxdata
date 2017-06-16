@@ -1,0 +1,24 @@
+{
+  "id": "SLES-02538",
+  "title": "Superbike 2000",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-02538.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-02538.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Climax Group",
+  "publisher": "EA Sports",
+  "date": "2001-02-16"
+}

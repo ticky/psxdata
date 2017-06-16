@@ -1,0 +1,25 @@
+{
+  "id": "SLES-02688",
+  "title": "Theme Park World",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "sv",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-02688.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-02688.jpg",
+  "genre": "Strategy",
+  "style": "Constructing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Bullfrog Productions / Climax Group",
+  "publisher": "Electronic Arts",
+  "date": "2000-03-24"
+}

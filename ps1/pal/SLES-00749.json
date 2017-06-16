@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00749",
+  "title": "The Note",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00749.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00749.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "NK System Co., Ltd",
+  "publisher": "Sunsoft",
+  "date": "1997-10-01"
+}

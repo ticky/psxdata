@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLES-01100",
+    "SLES-11100",
+    "SLES-21100",
+    "SLES-31100",
+    "SLES-41100"
+  ],
+  "title": "Riven - The sequel to Myst",
+  "discs": 5,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-01100.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-01100.jpg",
+  "genre": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Cyan Productions",
+  "publisher": "Sunsoft / Acclaim Entertainment, Inc",
+  "date": "1998-06-20"
+}

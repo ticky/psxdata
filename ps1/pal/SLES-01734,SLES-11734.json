@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-01734",
+    "SLES-11734"
+  ],
+  "title": "Metal Gear Solid",
+  "discs": 2,
+  "languages": [
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-01734.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-01734.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "KCE Japan",
+  "publisher": "Konami",
+  "date": "1999-06-20"
+}

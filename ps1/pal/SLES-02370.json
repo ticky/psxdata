@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02370",
+  "title": "Cybertiger",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "sv",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-02370.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-02370.jpg",
+  "commonTitle": "CyberTiger / Cyber Tiger",
+  "genre": "Golf",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "EA Redwood Shores",
+  "publisher": "Electronic Arts",
+  "date": "1999-11-02"
+}

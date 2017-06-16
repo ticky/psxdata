@@ -1,0 +1,22 @@
+{
+  "id": "SLES-03207",
+  "title": "GP Challenge",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-03207.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-03207.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Interactive Entertainment",
+  "publisher": "Midas Interactive",
+  "date": "2002-11-22"
+}

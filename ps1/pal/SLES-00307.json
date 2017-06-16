@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00307",
+  "title": "Total Drivin'",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-00307.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-00307.jpg",
+  "commonTitle": "Total Drivin' / M6 Turbo Racing",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Eutechnyx",
+  "publisher": "Ocean",
+  "date": "1997-10-15"
+}

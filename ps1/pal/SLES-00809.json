@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00809",
+  "title": "N2O - Nitrous Oxide",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/games/P/N/SLES-00809.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/N/SLES-00809.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Gremlin Graphics",
+  "publisher": "Gremlin Graphics",
+  "date": "1998-06-30"
+}

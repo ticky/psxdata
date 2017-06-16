@@ -1,0 +1,24 @@
+{
+  "id": "SLES-01733",
+  "title": "UEFA Striker",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/U/SLES-01733.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/U/SLES-01733.jpg",
+  "genre": "Sports",
+  "style": "Soccer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Rage Software",
+  "publisher": "Infogrames",
+  "date": "1999-10-10"
+}

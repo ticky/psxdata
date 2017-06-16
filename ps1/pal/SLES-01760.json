@@ -1,0 +1,24 @@
+{
+  "id": "SLES-01760",
+  "title": "Populous The Beginning",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "no",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-01760.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-01760.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Bullfrog / Climax Group",
+  "publisher": "Electronic Arts",
+  "date": "1999-03-31"
+}

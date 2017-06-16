@@ -1,0 +1,23 @@
+{
+  "id": "SCES-02104",
+  "title": "Spyro 2 - Gateway to Glimmer",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SCES-02104.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SCES-02104.jpg",
+  "genre": "Action",
+  "style": "Platform",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Insomniac Games",
+  "publisher": "Sony",
+  "date": "1999-11-05"
+}

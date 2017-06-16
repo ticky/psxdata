@@ -1,0 +1,23 @@
+{
+  "id": "SCES-01420",
+  "title": "Crash Bandicoot 3 - Warped",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SCES-01420.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SCES-01420.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Naughty Dog, Inc",
+  "publisher": "Sony",
+  "date": "1998-12-11"
+}

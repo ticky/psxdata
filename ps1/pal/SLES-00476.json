@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00476",
+  "title": "Blast Chamber",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-00476.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00476.jpg",
+  "genre": "Action",
+  "style": "Puzzle",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Attention To Detail Limited",
+  "publisher": "Activision",
+  "date": "1996-11-15"
+}

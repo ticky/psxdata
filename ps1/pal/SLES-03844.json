@@ -1,0 +1,23 @@
+{
+  "id": "SLES-03844",
+  "title": "Planet of the Apes",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-03844.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-03844.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Visiware",
+  "publisher": "Ubi Soft",
+  "date": "2002-08-22"
+}

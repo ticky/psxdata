@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLES-02900",
+    "SLES-12900",
+    "SLES-22900",
+    "SLES-32900"
+  ],
+  "title": "Koudelka",
+  "discs": 4,
+  "languages": [
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/games/P/K/SLES-02900.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/K/SLES-02900.jpg",
+  "genre": "RPG",
+  "style": "Survival horror",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Sacnoth",
+  "publisher": "Infogrames",
+  "date": "2000-09-29"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01660",
+  "title": "Rollcage",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-01660.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-01660.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Attention To Detail Limited",
+  "publisher": "Psygnosis",
+  "date": "1999-03-15"
+}

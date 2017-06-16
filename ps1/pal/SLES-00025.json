@@ -1,0 +1,21 @@
+{
+  "id": "SLES-00025",
+  "title": "Swagman",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-00025.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-00025.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Core Design",
+  "publisher": "Eidos Interactive",
+  "date": "1997-07-01"
+}

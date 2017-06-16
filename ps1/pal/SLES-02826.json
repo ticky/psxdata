@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02826",
+  "title": "Mille Miglia",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-02826.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-02826.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Kung Fu Games",
+  "publisher": "SCI",
+  "date": "2000-12-10"
+}

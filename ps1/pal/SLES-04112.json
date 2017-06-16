@@ -1,0 +1,23 @@
+{
+  "id": "SLES-04112",
+  "title": "Robocod - James Pond II",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-04112.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-04112.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Gameware Development",
+  "publisher": "PlayIt",
+  "date": "2004-09-15"
+}

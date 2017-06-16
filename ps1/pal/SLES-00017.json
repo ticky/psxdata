@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00017",
+  "title": "Prince Naseem Boxing",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SLES-00017.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SLES-00017.jpg",
+  "genre": "Boxing",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Codemasters",
+  "publisher": "Codemasters",
+  "date": "2000-03-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00599",
+  "title": "MDK",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-00599.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-00599.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Neversoft / Shiny Entertaiment",
+  "publisher": "Interplay",
+  "date": "1997-11-10"
+}

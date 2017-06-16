@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLES-02330",
+    "SLES-12330",
+    "SLES-22330"
+  ],
+  "title": "Galerians",
+  "discs": 3,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-02330.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-02330.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Polygon Magic Inc",
+  "publisher": "Crave Entertainment",
+  "date": "2000-04-15"
+}

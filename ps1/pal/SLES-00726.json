@@ -1,0 +1,22 @@
+{
+  "id": "SLES-00726",
+  "title": "Formula Karts Special Edition",
+  "discs": 1,
+  "languages": [
+    "en",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-00726.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-00726.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Manic Media",
+  "publisher": "Telstar",
+  "date": "1997-11-21"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00037",
+  "title": "Alone in the Dark - Jack is Back",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/A/SLES-00037.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/A/SLES-00037.jpg",
+  "commonTitle": "Alone in the Dark 2 - Jack is Back",
+  "genre": "Survival Horror",
+  "style": "Action",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "I-Motion",
+  "publisher": "Infogrames",
+  "date": "1996-03-05"
+}

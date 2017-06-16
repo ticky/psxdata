@@ -1,0 +1,22 @@
+{
+  "id": "SLES-01960",
+  "title": "Carmageddon",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-01960.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-01960.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "SCi Entertainment Group",
+  "publisher": "Virgin Interactive",
+  "date": "1999-10-01"
+}

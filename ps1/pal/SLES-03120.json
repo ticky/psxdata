@@ -1,0 +1,24 @@
+{
+  "id": "SLES-03120",
+  "title": "3, 2, 1... Smurf! My First Racing Game",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/0-9/SLES-03120.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/0-9/SLES-03120.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Artificial Mind & Movement",
+  "publisher": "Infogrames",
+  "date": "2001-03-29"
+}

@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLES-01345",
+    "SLES-11345"
+  ],
+  "title": "Command & Conquer - Alarmstufe Rot - Gegenschlag",
+  "includes": "Allies Disc + Soviet Disc",
+  "discs": 2,
+  "languages": [
+    "de"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-01345.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-01345.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Westwood Studios",
+  "publisher": "Virgin Interactive",
+  "date": "1998-09-25"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01051",
+  "title": "Sentinel Returns",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/S/SLES-01051.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/S/SLES-01051.jpg",
+  "genre": "Action",
+  "style": "Strategy",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Hookstone",
+  "publisher": "Psygnosis",
+  "date": "1998-07-17"
+}

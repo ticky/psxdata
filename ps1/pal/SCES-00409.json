@@ -1,0 +1,23 @@
+{
+  "id": "SCES-00409",
+  "title": "Porsche Challenge",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/P/SCES-00409.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/P/SCES-00409.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "SCE Studio Soho",
+  "publisher": "Sony Computer Entertainment",
+  "date": "1997-09-15"
+}

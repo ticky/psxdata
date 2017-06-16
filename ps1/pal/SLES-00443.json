@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00443",
+  "title": "Invasion",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/I/SLES-00443.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/I/SLES-00443.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Microids",
+  "publisher": "Microids",
+  "date": "1999-02-10"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02798",
+  "title": "Rayman Junior Level 1",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-02798.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-02798.jpg",
+  "genre": "Platformer",
+  "style": "Educational",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Aqua Pacific",
+  "publisher": "UBI Soft Entertainment",
+  "date": "2000-12-20"
+}

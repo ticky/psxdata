@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00859",
+  "title": "Formula 1 '97",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SLES-00859.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SLES-00859.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Bizarre Creations",
+  "publisher": "Psygnosis",
+  "date": "1997-09-26"
+}

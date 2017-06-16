@@ -1,0 +1,23 @@
+{
+  "id": "SLES-03405",
+  "title": "Duke Nukem - Land of the babes",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-03405.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-03405.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "N-Space",
+  "publisher": "GT Interactive Software Corp",
+  "date": "2001-04-06"
+}

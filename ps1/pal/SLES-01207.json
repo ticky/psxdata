@@ -1,0 +1,28 @@
+{
+  "id": "SLES-01207",
+  "title": "Lego Racers",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "da",
+    "nl",
+    "fi",
+    "no",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/L/SLES-01207.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/L/SLES-01207.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "High Voltage Software",
+  "publisher": "LEGO Media International Inc",
+  "date": "1999-11-19"
+}

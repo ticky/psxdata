@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SCES-03828",
+    "SCED-50642"
+  ],
+  "title": "Final Fantasy VI",
+  "includes": "Final Fantasy VI + Final Fantasy X [Demo]",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/P/F/SCES-03828.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/F/SCES-03828.jpg",
+  "commonTitle": "Final Fantasy VI / Final Fantasy 6 / FF6",
+  "genre": "RPG",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Sony",
+  "date": "2002-03-01"
+}

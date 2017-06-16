@@ -1,0 +1,24 @@
+{
+  "id": "SLES-03433",
+  "title": "X'Treme Roller",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "pl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/X/SLES-03433.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/X/SLES-03433.jpg",
+  "genre": "Racing",
+  "style": "Skate",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Titus Software Corp.",
+  "publisher": "Microids",
+  "date": "2002-10-24"
+}

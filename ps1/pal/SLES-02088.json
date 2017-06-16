@@ -1,0 +1,25 @@
+{
+  "id": "SLES-02088",
+  "title": "Croc 2",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "no",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-02088.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-02088.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Argonaut Games",
+  "publisher": "Fox Interactive",
+  "date": "1999-08-03"
+}

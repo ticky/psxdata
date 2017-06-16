@@ -1,0 +1,23 @@
+{
+  "id": "SLES-03936",
+  "title": "Digimon World 2003",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/D/SLES-03936.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/D/SLES-03936.jpg",
+  "genre": "RPG",
+  "style": "Breeding",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Bandai",
+  "publisher": "Bandai",
+  "date": "2002-11-15"
+}

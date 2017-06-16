@@ -1,0 +1,23 @@
+{
+  "id": "SLES-01241",
+  "title": "Gekido - Urban fighters",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/G/SLES-01241.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/G/SLES-01241.jpg",
+  "genre": "Action",
+  "style": "Beat'em up",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "NA.P.S. Team",
+  "publisher": "Infogrames",
+  "date": "2001-02-23"
+}

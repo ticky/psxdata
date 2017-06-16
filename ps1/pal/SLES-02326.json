@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02326",
+  "title": "Roadsters",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/R/SLES-02326.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/R/SLES-02326.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Smart Dog",
+  "publisher": "Titus Software Corp",
+  "date": "2000-06-30"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SLES-00174",
+  "title": "Buggy",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "pt",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/B/SLES-00174.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00174.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Gremlin Interactive",
+  "publisher": "Gremlin Interactive",
+  "date": "1998-07-15"
+}

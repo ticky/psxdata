@@ -1,0 +1,25 @@
+{
+  "id": "SLES-03459",
+  "title": "Tintin - Destination Adventure",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/games/P/T/SLES-03459.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/T/SLES-03459.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Moulinsart Multimedia",
+  "publisher": "Infogrames",
+  "date": "2001-09-21"
+}

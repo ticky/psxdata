@@ -1,0 +1,23 @@
+{
+  "id": "SLES-02086",
+  "title": "N-Gen Racing",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/N/SLES-02086.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/N/SLES-02086.jpg",
+  "commonTitle": "N-Gen Racing / Next Generation Racing",
+  "genre": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Curly Monsters Ltd",
+  "publisher": "Infogrames",
+  "date": "2000-06-23"
+}

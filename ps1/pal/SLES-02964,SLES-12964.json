@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLES-02964",
+    "SLES-12964"
+  ],
+  "title": "Magical Drop 3",
+  "discs": 2,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/games/P/M/SLES-02964.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/M/SLES-02964.jpg",
+  "genre": "Puzzle",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Data East / Swing! Deutschland",
+  "publisher": "Swing! Deutschland",
+  "date": "2000-07-23"
+}

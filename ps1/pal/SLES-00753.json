@@ -1,0 +1,23 @@
+{
+  "id": "SLES-00753",
+  "title": "Circuit Breakers",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/P/C/SLES-00753.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/P/C/SLES-00753.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Supersonic Software",
+  "publisher": "Mindscape",
+  "date": "1998-07-15"
+}
