@@ -1,6 +1,6 @@
 {
   "name": "psxdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jessica Stokes <hello@jessicastokes.net>",
   "description": "Data from the PSX Data Center, in serialized form",
   "homepage": "https://github.com/ticky/psxdata",
