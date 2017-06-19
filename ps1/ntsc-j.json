@@ -14211,8 +14211,12 @@
   },
   {
     "id": "SLPS-02574",
-    "title": "Heiwa Parlor! Pro Western Special",
-    "discs": 1
+    "title": "HEIWA PARLOR! PRO WESTERN SPECIAL",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/H/SLPS-02574.html"
   },
   {
     "id": [
@@ -14895,6 +14899,15 @@
     "link": "http://psxdatacenter.com/games/J/H/SLPS-01075.html"
   },
   {
+    "id": "SLPS-00434",
+    "title": "HONKAKU 4-NIN UCHI - GEINOUJIN TAIKYOKU MAHJONG - THE WAREME DE PON",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/H/SLPS-00434.html"
+  },
+  {
     "id": "SLPS-01656",
     "title": "HONKAKU HANAFUDA",
     "discs": 1,
@@ -14941,8 +14954,12 @@
   },
   {
     "id": "SLPS-02741",
-    "title": "Honkaku Shi Jinkuchi Pro Mahjong - Mahjong Oh",
-    "discs": 1
+    "title": "HONKAKU YONIN UCHI PRO MAHJONG - MAHJONG OU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/H/SLPS-02741.html"
   },
   {
     "id": "SLPS-01594",
@@ -15718,8 +15735,12 @@
   },
   {
     "id": "SLPS-00551",
-    "title": "Ippatsu Gyakuten - Keiba Keirin Pachinko Pachi-Slot Mahjong",
-    "discs": 1
+    "title": "IPPATSU GYAKUTEN - GAMBLE KING DENSETSU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/I/SLPS-00551.html"
   },
   {
     "id": "SLPS-00341",
@@ -39555,11 +39576,6 @@
       "jp"
     ],
     "link": "http://psxdatacenter.com/games/J/T/SLPS-01014.html"
-  },
-  {
-    "id": "SLPS-00434",
-    "title": "The Wareme de Pon",
-    "discs": 1
   },
   {
     "id": "SLPM-86473",

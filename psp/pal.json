@@ -11479,7 +11479,7 @@
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/psp/games/P/T/ULES-01513.html"
+    "link": "http://psxdatacenter.com/psp/games/ULES-01513.html"
   },
   {
     "id": "NPEH-00009",
@@ -11613,6 +11613,14 @@
   {
     "id": "ULES-01191",
     "title": "The King of Fighters Collection - The Orochi Saga",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "NPEH-00166",
+    "title": "The Legend of Heroes - Trails in the Sky SC",
     "discs": 1,
     "languages": [
       "en"

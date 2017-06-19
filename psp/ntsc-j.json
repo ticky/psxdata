@@ -1383,6 +1383,30 @@
     ]
   },
   {
+    "id": "ULAS-42215",
+    "title": "Army of Two - The 40th Day",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05643",
+    "title": "Army of Two - The 40th Day",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05849",
+    "title": "Army of Two - The 40th Day (Best Version)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05870",
     "title": "Asaki, Yumemishi",
     "discs": 1,
@@ -4618,6 +4642,22 @@
     ]
   },
   {
+    "id": "ULJS-00052",
+    "title": "Daito Giken Koushiki Pachi-Slot Simulator - Ossu! Banchou Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50241",
+    "title": "Daito Giken Koushiki Pachi-Slot Simulator - Ossu! Banchou Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00309",
     "title": "Daito Giken Koushiki Pachi-Slot Simulator - Ossu! Misao + Maguro Densetsu Portable",
     "discs": 1,
@@ -4746,7 +4786,7 @@
     ]
   },
   {
-    "id": "NPJH-50515",
+    "id": "NPJH-50372",
     "title": "Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei",
     "discs": 1,
     "languages": [
@@ -5832,6 +5872,14 @@
   {
     "id": "UCJS-10039",
     "title": "Doko Demo Issho - Let's Gakkou!",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCJB-98010",
+    "title": "Doko Demo Issho - Let's Gakkou! (Obenkyou Pack)",
     "discs": 1,
     "languages": [
       "jp"
@@ -8839,7 +8887,7 @@
     ]
   },
   {
-    "id": "NPJH-50397",
+    "id": "NPJH-50423",
     "title": "Gloria Union",
     "discs": 1,
     "languages": [
@@ -9174,7 +9222,7 @@
   },
   {
     "id": "ULJS-00394",
-    "title": "Grand Knights Histor",
+    "title": "Grand Knights History",
     "discs": 1,
     "languages": [
       "jp"
@@ -9182,7 +9230,7 @@
   },
   {
     "id": "NPJH-50518",
-    "title": "Grand Knights Histor",
+    "title": "Grand Knights History",
     "discs": 1,
     "languages": [
       "jp"
@@ -10472,6 +10520,14 @@
     ]
   },
   {
+    "id": "UCKS-45123",
+    "title": "Hatsune Miku - Project Diva",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05472",
     "title": "Hatsune Miku - Project Diva",
     "discs": 1,
@@ -11435,7 +11491,7 @@
     "title": "I.Q Mania",
     "discs": 1,
     "languages": [
-      "jp"
+      "en"
     ]
   },
   {
@@ -11497,6 +11553,38 @@
   {
     "id": "ULJS-00151",
     "title": "Ikki Tousen - Eloquent Fist (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00264",
+    "title": "Ikki Tousen - Xross Impact",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50222",
+    "title": "Ikki Tousen - Xross Impact",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00373",
+    "title": "Ikki Tousen - Xross Impact (Best Collection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00263",
+    "title": "Ikki Tousen - Xross Impact (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -11575,7 +11663,7 @@
     ]
   },
   {
-    "id": "ULKS-4606",
+    "id": "ULKS-46068",
     "title": "Initial D - Street Stage",
     "discs": 1,
     "languages": [
@@ -12225,8 +12313,8 @@
     ]
   },
   {
-    "id": "ULJM-05028",
-    "title": "Jitsuwa Kaidan - Shinmimi Bukuro - Ichi no Shou (Metro the Best)",
+    "id": "ULJM-05100",
+    "title": "Jitsuroku Oniyome Nikki - Shiuchi ni Taeru Otto no Rifujin Taiken Adventure",
     "discs": 1,
     "languages": [
       "jp"
@@ -12234,6 +12322,14 @@
   },
   {
     "id": "ULJS-00146",
+    "title": "Jitsuwa Kaidan - Shinmimi Bukuro - Ichi no Shou",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05028",
     "title": "Jitsuwa Kaidan - Shinmimi Bukuro - Ichi no Shou (Metro the Best)",
     "discs": 1,
     "languages": [
@@ -12310,6 +12406,14 @@
   {
     "id": "ULJM-05154",
     "title": "Juiced Eliminator",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05139",
+    "title": "Jukugon",
     "discs": 1,
     "languages": [
       "jp"
@@ -12839,7 +12943,7 @@
     ]
   },
   {
-    "id": "ULJS-00218",
+    "id": "ULJS-00307",
     "title": "Katekyoo Hitman Reborn - Battle Arena 2 - Spirits Burst (Best Collection)",
     "discs": 1,
     "languages": [
@@ -13407,7 +13511,7 @@
     ]
   },
   {
-    "id": "ULJS-00250",
+    "id": "ULJS-00398",
     "title": "Kidou Senshi Gundam - Mokuba no Kiseki",
     "discs": 1,
     "languages": [
@@ -15530,7 +15634,39 @@
     ]
   },
   {
+    "id": "ULJS-00321",
+    "title": "Macross Triangle Frontier",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00369",
+    "title": "Macross Triangle Frontier (Itsuwari no Utahime Pack)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-19072",
+    "title": "Macross Triangle Frontier (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00231",
+    "title": "Macross Ultimate Frontier",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50050",
     "title": "Macross Ultimate Frontier",
     "discs": 1,
     "languages": [
@@ -20572,7 +20708,7 @@
     ]
   },
   {
-    "id": "ULES-00570",
+    "id": "ULJS-00367",
     "title": "Onechanbara Special",
     "discs": 1,
     "languages": [
@@ -21130,7 +21266,7 @@
   },
   {
     "id": "UCAS-40193",
-    "title": "Patapon<",
+    "title": "Patapon",
     "discs": 1,
     "languages": [
       "zh"
@@ -21138,7 +21274,7 @@
   },
   {
     "id": "UCJS-10077",
-    "title": "Patapon<",
+    "title": "Patapon",
     "discs": 1,
     "languages": [
       "jp"
@@ -21146,7 +21282,7 @@
   },
   {
     "id": "UCKS-45076",
-    "title": "Patapon<",
+    "title": "Patapon",
     "discs": 1,
     "languages": [
       "kr"
@@ -21178,7 +21314,7 @@
   },
   {
     "id": "UCJS-18027",
-    "title": "Patapon (PSP the Bes)<",
+    "title": "Patapon (PSP the Best)<",
     "discs": 1,
     "languages": [
       "jp"
@@ -21210,7 +21346,7 @@
   },
   {
     "id": "UCAS-40239",
-    "title": "Patapon< 2 - Don-Chaka",
+    "title": "Patapon 2 - Don-Chaka",
     "discs": 1,
     "languages": [
       "zh"
@@ -21218,7 +21354,7 @@
   },
   {
     "id": "UCJS-10089",
-    "title": "Patapon< 2 - Don-Chaka",
+    "title": "Patapon 2 - Don-Chaka",
     "discs": 1,
     "languages": [
       "jp"
@@ -21234,7 +21370,7 @@
   },
   {
     "id": "NPJG-00010",
-    "title": "Patapon< 2 - Don-Chaka",
+    "title": "Patapon 2 - Don-Chaka",
     "discs": 1,
     "languages": [
       "jp"
@@ -21250,7 +21386,7 @@
   },
   {
     "id": "UCJS-18036",
-    "title": "Patapon 2 - Don-Chaka (PSP the Bes)<",
+    "title": "Patapon 2 - Don-Chaka (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -21323,7 +21459,7 @@
   },
   {
     "id": "NPJG-00122",
-    "title": "Patapon 3 (PSP the Bes)<",
+    "title": "Patapon 3 (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -25527,6 +25663,14 @@
     ]
   },
   {
+    "id": "NPJH-50467",
+    "title": "Senritsu no Stratus",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "NPJH-50343",
     "title": "Senjou No Valkyria 3 - Unrecorded Chronicles",
     "discs": 1,
@@ -26421,6 +26565,30 @@
     ]
   },
   {
+    "id": "ULJM-05477",
+    "title": "Shinseiki Evangelion - Koutetsu no Girlfriend 2nd Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50206",
+    "title": "Shinseiki Evangelion - Koutetsu no Girlfriend 2nd Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "CF00-20021",
+    "title": "Shinseiki Evangelion - Koutetsu no Girlfriend 2nd Portable (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00142",
     "title": "Shinseiki GPX Cyber Formula VS",
     "discs": 1,
@@ -26479,6 +26647,14 @@
   {
     "id": "ULJM-05131",
     "title": "Shinten Makai - GOCIV Another Side (IF Collection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "PLCE-003",
+    "title": "Shiokaze no Kieru Umi ni",
     "discs": 1,
     "languages": [
       "jp"
@@ -30532,7 +30708,7 @@
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/J/T/UCAS-40325.html"
+    "link": "http://psxdatacenter.com/psp/games/UCAS-40325.html"
   },
   {
     "id": "UCAS-40336",
@@ -30541,7 +30717,7 @@
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/psp/games/J/T/UCAS-40336.html"
+    "link": "http://psxdatacenter.com/psp/games/UCAS-40336.html"
   },
   {
     "id": "UCKS-45163",
@@ -30550,7 +30726,7 @@
     "languages": [
       "kr"
     ],
-    "link": "http://psxdatacenter.com/psp/games/J/T/UCKS-45163.html"
+    "link": "http://psxdatacenter.com/psp/games/UCKS-45163.html"
   },
   {
     "id": "ULJM-05798",
@@ -30559,7 +30735,7 @@
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/J/T/ULJM-05798.html"
+    "link": "http://psxdatacenter.com/psp/games/ULJM-05798.html"
   },
   {
     "id": "NPJH-50361",
@@ -30568,7 +30744,7 @@
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/J/T/NPJH-50361.html"
+    "link": "http://psxdatacenter.com/psp/games/NPJH-50361.html"
   },
   {
     "id": "ULJM-06008",
@@ -30577,7 +30753,7 @@
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/J/T/ULJM-06008.html"
+    "link": "http://psxdatacenter.com/psp/games/ULJM-06008.html"
   },
   {
     "id": "UCKS-45015",

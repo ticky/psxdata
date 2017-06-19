@@ -573,11 +573,7 @@
     "title": "Battle Zone",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "en"
     ]
   },
   {
@@ -6955,6 +6951,22 @@
     ]
   },
   {
+    "id": "ULUS-10656",
+    "title": "Summon Night 5",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "NPUH-10198",
+    "title": "Summon Night 5",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULUS-10287",
     "title": "Super Collapse! 3",
     "discs": 1,
@@ -7250,7 +7262,7 @@
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/psp/games/U/T/ULUS-10567.html"
+    "link": "http://psxdatacenter.com/psp/games/ULUS-10567.html"
   },
   {
     "id": "ULUS-10284",
@@ -7368,7 +7380,23 @@
   },
   {
     "id": "ULUS-10022",
+    "title": "The Legend of Heroes - A Tear of Vermillion",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULUS-10540",
     "title": "The Legend of Heroes - Trails in the Sky",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "NPUH-10191",
+    "title": "The Legend of Heroes - Trails in the Sky SC",
     "discs": 1,
     "languages": [
       "en"
