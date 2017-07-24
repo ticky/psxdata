@@ -19,14 +19,14 @@
     "test": "jest"
   },
   "devDependencies": {
+    "cached-request": "^1.1.2",
     "fs-then-native": "^2.0.0",
     "jest": "^20.0.4",
-    "jsdom": "^11.0.0"
+    "jsdom": "^11.0.0",
+    "queue-that-promise": "^1.2.3",
+    "request": "^2.81.0"
   },
   "jest": {
     "collectCoverage": true
-  },
-  "dependencies": {
-    "queue-that-promise": "^1.2.3"
   }
 }

@@ -6,20 +6,24 @@ const { JSDOM } = require('jsdom');
 const consumeIndex = require('../lib/consumeIndex');
 const consumeTitlePage = require('../lib/consumeTitlePage');
 
+const request = require('request');
+const cachedRequest = require('cached-request')(request);
+cachedRequest.setCacheDirectory(path.join(__dirname, '../.cache'));
+
 const SOURCES = {
   ps1: {
     'ntsc-j': 'http://psxdatacenter.com/jlist.html',
-    // 'ntsc-uc': 'http://psxdatacenter.com/ulist.html',
-    // 'pal': 'http://psxdatacenter.com/plist.html'
+    'ntsc-uc': 'http://psxdatacenter.com/ulist.html',
+    'pal': 'http://psxdatacenter.com/plist.html'
   },
   ps2: {
-  //   'ntsc-j': 'http://psxdatacenter.com/psx2/jlist2.html',
+    'ntsc-j': 'http://psxdatacenter.com/psx2/jlist2.html',
     'ntsc-uc': 'http://psxdatacenter.com/psx2/ulist2.html',
-  //   'pal': 'http://psxdatacenter.com/psx2/plist2.html'
+    'pal': 'http://psxdatacenter.com/psx2/plist2.html'
   },
   psp: {
-  //   'ntsc-j': 'http://psxdatacenter.com/psp/jlist.html',
-  //   'ntsc-uc': 'http://psxdatacenter.com/psp/ulist.html',
+    'ntsc-j': 'http://psxdatacenter.com/psp/jlist.html',
+    'ntsc-uc': 'http://psxdatacenter.com/psp/ulist.html',
     'pal': 'http://psxdatacenter.com/psp/plist.html'
   }
 };
@@ -35,63 +39,85 @@ Object.keys(SOURCES).forEach((platform) => {
 
       console.log(`processing '${url}'...`)
 
-      return JSDOM.fromURL(url)
-        .then((dom) => {
-          try {
-            const index = consumeIndex(dom.window.document);
-            dom.window.close();
-            delete dom;
-            return index;
-          } catch (error) {
-            console.error(`error processing ${platform}/${region}`, error);
-            throw error;
-          }
-        })
-        .then((index) => {
-          const regionQueue = new Queue();
-          
-          index.forEach((entry, entryIndex) => {
-            if (entry.link) {
-              regionQueue.add(() => {
-                console.log(`processing '${entry.link}' (#${entryIndex})...`)
-                return JSDOM.fromURL(entry.link)
-                  .then((dom) => {
-                    try {
-                      const data = consumeTitlePage(dom.window.document, entry);
-                      dom.window.close();
-                      delete dom;
-                      return data;
-                    } catch (error) {
-                      console.error(`error processing ${platform}/${region}/${entry.title}`, error);
-                      throw error;
-                    }
-                  })
-                  .then((title) => {
-                    const titleId = (title.id instanceof Array) ? title.id.join(',') : title.id;
-                    const outputFilePath = path.join(region, `${titleId}.json`);
-                    const outputFile = path.join(__dirname, '..', platform, outputFilePath);
-
-                    return fs.writeFile(outputFile, `${JSON.stringify(title, null, '  ')}\n`)
-                      .then(() => {
-                        entry.dataLink = outputFilePath;
-                        return entry;
-                      });
-                  })
-              });
+      return new Promise((resolve, reject) => {
+        cachedRequest({ url, encoding: null },
+          (error, response, body) => {
+            if (error) {
+              reject(error);
             }
-          });
+            resolve(body);
+          }
+        );
+      })
+      .then((body) => {
+        try {
+          console.debug(body);
+          const dom = new JSDOM(body, { url });
+          const index = consumeIndex(dom.window.document);
+          dom.window.close();
+          delete dom;
+          return index;
+        } catch (error) {
+          console.error(`error processing ${platform}/${region}`, error);
+          throw error;
+        }
+      })
+      .then((index) => {
+        const regionQueue = new Queue();
 
-          return regionQueue.done()
-            .then(() => index);
-        })
-        .then((index) => {
-          const outputFile = path.join(__dirname, '..', platform, `${region}.json`);
+        index.forEach((entry, entryIndex) => {
+          if (entry.link) {
+            regionQueue.add(() => {
+              console.log(`processing '${entry.link}' (#${entryIndex})...`);
 
-          return fs.writeFile(outputFile, `${JSON.stringify(index, null, '  ')}\n`)
-            .then(() => {
-              return index;
+              return new Promise((resolve, reject) => {
+                cachedRequest({ url: entry.link, encoding: null },
+                  (error, response, body) => {
+                    if (error) {
+                      reject(error);
+                    }
+                    resolve(body);
+                  }
+                );
+              })
+              .then((body) => {
+                try {
+                  const dom = new JSDOM(body, { url: entry.link });
+                  const data = consumeTitlePage(dom.window.document, entry);
+                  dom.window.close();
+                  delete dom;
+                  return data;
+                } catch (error) {
+                  console.error(`error processing ${platform}/${region}/${entry.title}`, error);
+                  throw error;
+                }
+              })
+              .then((title) => {
+                const titleId = (title.id instanceof Array) ? title.id.join(',') : title.id;
+                const outputFilePath = path.join(region, `${titleId}.json`);
+                const outputFile = path.join(__dirname, '..', platform, outputFilePath);
+
+                return fs.writeFile(outputFile, `${JSON.stringify(title, null, '  ')}\n`)
+                  .then(() => {
+                    entry.dataLink = outputFilePath;
+                    return entry;
+                  });
+              });
             });
+          }
         });
+
+        return regionQueue.done()
+          .then(() => index);
+      })
+      .then((index) => {
+        const outputFile = path.join(__dirname, '..', platform, `${region}.json`);
+
+        return fs.writeFile(outputFile, `${JSON.stringify(index, null, '  ')}\n`)
+          .then(() => {
+            return index;
+          });
+      });
     });
   });
 });
