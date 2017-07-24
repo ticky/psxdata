@@ -30703,57 +30703,63 @@
   },
   {
     "id": "UCAS-40325",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/UCAS-40325.html"
+    "link": "http://psxdatacenter.com/psp/games/UCAS-40325.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/UCAS-40325.jpg",
+    "dataLink": "ntsc-j/UCAS-40325.json"
   },
   {
     "id": "UCAS-40336",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/psp/games/UCAS-40336.html"
+    "link": "http://psxdatacenter.com/psp/games/UCAS-40336.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/UCAS-40336.jpg",
+    "dataLink": "ntsc-j/UCAS-40336.json"
   },
   {
     "id": "UCKS-45163",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "kr"
     ],
-    "link": "http://psxdatacenter.com/psp/games/UCKS-45163.html"
+    "link": "http://psxdatacenter.com/psp/games/UCKS-45163.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/UCKS-45163.jpg",
+    "dataLink": "ntsc-j/UCKS-45163.json"
   },
   {
     "id": "ULJM-05798",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/ULJM-05798.html"
+    "link": "http://psxdatacenter.com/psp/games/ULJM-05798.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/ULJM-05798.jpg",
+    "dataLink": "ntsc-j/ULJM-05798.json"
   },
   {
     "id": "NPJH-50361",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/NPJH-50361.html"
+    "link": "http://psxdatacenter.com/psp/games/NPJH-50361.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/NPJH-50361.jpg",
+    "dataLink": "ntsc-j/NPJH-50361.json"
   },
   {
     "id": "ULJM-06008",
-    "title": "THE 3RD BIRTHDAY [ULTIMATE HITS]",
-    "discs": 1,
+    "title": "The 3rd Birthday [Ultimate Hits]",
     "languages": [
       "jp"
     ],
-    "link": "http://psxdatacenter.com/psp/games/ULJM-06008.html"
+    "link": "http://psxdatacenter.com/psp/games/ULJM-06008.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/ULJM-06008.jpg",
+    "dataLink": "ntsc-j/ULJM-06008.json"
   },
   {
     "id": "UCKS-45015",

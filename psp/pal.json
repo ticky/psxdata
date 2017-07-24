@@ -11474,12 +11474,13 @@
   },
   {
     "id": "ULES-01513",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/psp/games/ULES-01513.html"
+    "link": "http://psxdatacenter.com/psp/games/ULES-01513.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/ULES-01513.jpg",
+    "dataLink": "pal/ULES-01513.json"
   },
   {
     "id": "NPEH-00009",

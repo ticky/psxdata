@@ -7257,12 +7257,13 @@
   },
   {
     "id": "ULUS-10567",
-    "title": "THE 3RD BIRTHDAY",
-    "discs": 1,
+    "title": "The 3rd Birthday",
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/psp/games/ULUS-10567.html"
+    "link": "http://psxdatacenter.com/psp/games/ULUS-10567.html",
+    "coverLink": "http://psxdatacenter.com/psp/images/covers/ULUS-10567.jpg",
+    "dataLink": "ntsc-uc/ULUS-10567.json"
   },
   {
     "id": "ULUS-10284",
