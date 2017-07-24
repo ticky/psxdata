@@ -40,6 +40,9 @@ Object.keys(SOURCES).forEach((platform) => {
       console.log(`processing '${url}'...`)
 
       return new Promise((resolve, reject) => {
+        // `encoding: null` makes `body` return a Buffer,
+        // which will force JSDOM to sniff encoding, rather
+        // than fall back to UTF-8
         cachedRequest({ url, encoding: null },
           (error, response, body) => {
             if (error) {
@@ -71,6 +74,9 @@ Object.keys(SOURCES).forEach((platform) => {
               console.log(`processing '${entry.link}' (#${entryIndex})...`);
 
               return new Promise((resolve, reject) => {
+                // `encoding: null` makes `body` return a Buffer,
+                // which will force JSDOM to sniff encoding, rather
+                // than fall back to UTF-8
                 cachedRequest({ url: entry.link, encoding: null },
                   (error, response, body) => {
                     if (error) {
