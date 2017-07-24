@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLES-82020",
+    "SLES-82021"
+  ],
+  "title": "CY Girls",
+  "discs": 2,
+  "languages": [
+    "en",
+    "de",
+    "it"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-82020.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-82020.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Konami Computer Entertainment Japan Co., Ltd. (KCEJ)",
+  "publisher": "Konami",
+  "date": "2004-05-07"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51918",
+  "title": "Prince of Persia - The Sands of Time",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51918.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51918.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Ubisoft",
+  "publisher": "Ubisoft",
+  "date": "2003-11-21"
+}

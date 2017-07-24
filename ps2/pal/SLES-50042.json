@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50042",
+  "title": "Disney's Dinosaur",
+  "discs": 1,
+  "languages": [
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50042.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50042.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Sandbox Studios",
+  "publisher": "Ubi Soft Entertainment Software",
+  "date": "2000-12-08"
+}

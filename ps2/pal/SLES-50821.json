@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50821",
+  "title": "Project Zero",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50821.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50821.jpg",
+  "genre": "Action",
+  "style": "Survival Horror.",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Tecmo",
+  "publisher": "Wanadoo",
+  "date": "2002-10-28"
+}

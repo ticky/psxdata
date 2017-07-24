@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51333",
+  "title": "James Cameron's Dark Angel",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51333.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51333.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-11",
+    "usk-0"
+  ],
+  "developer": "Radical Entertainment Inc",
+  "publisher": "Vivendi Universal / Sierra Entertainment, Inc",
+  "date": "2003-02-21"
+}

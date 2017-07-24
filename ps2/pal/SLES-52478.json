@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52478",
+  "title": "Red Dead Revolver",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52478.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52478.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Rockstar San Diego / Angel Studios",
+  "publisher": "Take 2 Interactive",
+  "date": "2004-06-11"
+}

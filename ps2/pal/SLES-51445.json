@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51445",
+  "title": "Rygar - The Legendary Adventure",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51445.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51445.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-11",
+    "usk-0"
+  ],
+  "developer": "Tecmo",
+  "publisher": "Wanadoo",
+  "date": "2003-05-30"
+}

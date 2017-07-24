@@ -1,0 +1,25 @@
+{
+  "id": "SLES-53553",
+  "title": "007 - From Russia with love",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53553.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53553.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "EA Redwood Shores",
+  "publisher": "Electronic Arts",
+  "date": "2005-11-18"
+}

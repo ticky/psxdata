@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50710",
+  "title": "Dr. Muto",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50710.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50710.jpg",
+  "genre": "Action",
+  "style": "Platformer.",
+  "rating": [
+    "elspa-11",
+    "usk-0"
+  ],
+  "developer": "Midway Games West Inc",
+  "publisher": "Midway",
+  "date": "2003-03-21"
+}

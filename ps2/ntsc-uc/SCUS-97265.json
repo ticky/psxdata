@@ -1,0 +1,25 @@
+{
+  "id": "SCUS-97265",
+  "title": "Jak II",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "jp",
+    "kr"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SCUS-97265.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SCUS-97265.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Naughty Dog",
+  "publisher": "Sony",
+  "date": "2003-10-14"
+}

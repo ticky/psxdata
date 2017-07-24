@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52861",
+  "title": "King Arthur",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52861.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52861.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Krome Studios",
+  "publisher": "Konami",
+  "date": "2005-02-11"
+}

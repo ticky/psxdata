@@ -1,0 +1,24 @@
+{
+  "id": "SLKA-25122",
+  "title": "Sonic Heroes",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLKA-25122.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLKA-25122.jpg",
+  "genre": "Action",
+  "style": "Platformer.",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "Sonic Team",
+  "publisher": "Sega",
+  "date": "2003-12-30"
+}

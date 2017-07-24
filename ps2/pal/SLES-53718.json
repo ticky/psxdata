@@ -1,0 +1,28 @@
+{
+  "id": "SLES-53718",
+  "title": "The Sims 2",
+  "discs": 1,
+  "languages": [
+    "en",
+    "da",
+    "nl",
+    "fi",
+    "fr",
+    "de",
+    "it",
+    "no",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53718.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53718.jpg",
+  "genre": "Simulation",
+  "style": "Breeding",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Maxis",
+  "publisher": "Electronic Arts",
+  "date": "2005-10-25"
+}

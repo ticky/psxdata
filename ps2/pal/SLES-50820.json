@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50820",
+  "title": "Micro Machines",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50820.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50820.jpg",
+  "genre": "Driving",
+  "style": "Racing.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Infogrames Studios Ltd",
+  "publisher": "Atari",
+  "date": "2002-11-08"
+}

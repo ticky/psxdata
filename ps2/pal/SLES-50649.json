@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50649",
+  "title": "Taz Wanted",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50649.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50649.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Blitz Games",
+  "publisher": "Infogrames",
+  "date": "2002-09-18"
+}

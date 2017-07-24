@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51838",
+  "title": "Asterix & Obelix XXL",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51838.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51838.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-7",
+    "usk-0"
+  ],
+  "developer": "Etranges Libellules",
+  "publisher": "Atari",
+  "date": "2003-11-21"
+}

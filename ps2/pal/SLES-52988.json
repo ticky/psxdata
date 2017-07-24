@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52988",
+  "title": "Megaman X8",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52988.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52988.jpg",
+  "genre": "Action",
+  "style": "Platform",
+  "rating": [
+    "elspa-7",
+    "usk-0"
+  ],
+  "developer": "Capcom Production Studio 3",
+  "publisher": "Capcom",
+  "date": "2005-02-11"
+}

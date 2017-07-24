@@ -1,0 +1,22 @@
+{
+  "id": "SLES-50972",
+  "title": "Barbarian",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50972.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50972.jpg",
+  "genre": "Fighting",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Saffire Corporation",
+  "publisher": "Titus",
+  "date": "2003-12-05"
+}

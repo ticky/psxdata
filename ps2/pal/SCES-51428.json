@@ -1,0 +1,23 @@
+{
+  "id": "SCES-51428",
+  "title": "Shinobi",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SCES-51428.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SCES-51428.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Overworks",
+  "publisher": "Sega",
+  "date": "2003-05-16"
+}

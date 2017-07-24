@@ -1,0 +1,24 @@
+{
+  "id": "SLES-52843",
+  "title": "Garfield",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52843.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52843.jpg",
+  "genre": "Action",
+  "style": "Adventure.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "The Code Monkeys",
+  "publisher": "HIP Interactive",
+  "date": "2004-11-19"
+}

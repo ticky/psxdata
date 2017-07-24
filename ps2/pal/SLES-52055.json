@@ -1,0 +1,29 @@
+{
+  "id": "SLES-52055",
+  "title": "Harry Potter & the Philosopher's Stone",
+  "discs": 1,
+  "languages": [
+    "en",
+    "da",
+    "nl",
+    "fr",
+    "fi",
+    "de",
+    "it",
+    "no",
+    "pt",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52055.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52055.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "EA UK",
+  "publisher": "Electronic Arts",
+  "date": "2003-12-12"
+}

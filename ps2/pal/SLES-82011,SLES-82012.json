@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLES-82011",
+    "SLES-82012"
+  ],
+  "title": "Devil May Cry 2",
+  "discs": 2,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-82011.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-82011.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "date": "2003-01-29"
+}

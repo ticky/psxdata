@@ -1,0 +1,24 @@
+{
+  "id": "SLES-55110",
+  "title": "Odin Sphere",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "jp",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-55110.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-55110.jpg",
+  "genre": "Action",
+  "style": "RPG.",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Vanillaware, Ltd",
+  "publisher": "Atlus, Inc. / Square Enix",
+  "date": "2008-03-14"
+}

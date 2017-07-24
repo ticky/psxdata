@@ -1,0 +1,22 @@
+{
+  "id": "SLES-51721",
+  "title": "Disney's Extreme Skate Adventure",
+  "discs": 1,
+  "languages": [
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51721.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51721.jpg",
+  "genre": "Sports",
+  "style": "Skateboard",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Toys for Bob",
+  "publisher": "Activision, Inc",
+  "date": "2003-09-05"
+}

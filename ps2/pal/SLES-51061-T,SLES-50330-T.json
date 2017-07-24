@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLES-51061-T",
+    "SLES-50330-T"
+  ],
+  "title": "Grand Theft Auto - Double Pack",
+  "discs": 2,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51061-T.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51061-T.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Rockstar North",
+  "publisher": "Rockstar Games",
+  "date": "2003-10-24"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SLES-50370",
+  "title": "Le Tour de France",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50370.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50370.jpg",
+  "commonTitle": "Le Tour de France / Tour de France",
+  "genre": "Sports",
+  "style": "Cycling.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "date": "2002-06-21"
+}

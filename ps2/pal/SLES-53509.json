@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53509",
+  "title": "Hello Kitty Roller Rescue",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53509.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53509.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Xpec Entertaiment",
+  "publisher": "Empire Interactive",
+  "date": "2005-09-09"
+}

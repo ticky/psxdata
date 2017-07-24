@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53667",
+  "title": "Gauntlet - Seven Sorrows",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53667.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53667.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Midway",
+  "publisher": "Midway",
+  "date": "2006-06-24"
+}

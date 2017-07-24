@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53523",
+  "title": "Gun.",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53523.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53523.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "Neversoft",
+  "publisher": "Activision",
+  "date": "2005-11-11"
+}

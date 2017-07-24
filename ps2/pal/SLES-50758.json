@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50758",
+  "title": "E.O.E. - Eve of Extinction",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50758.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50758.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Yuke's Co. Ltd",
+  "publisher": "Eidos Interactive",
+  "date": "2002-03-22"
+}

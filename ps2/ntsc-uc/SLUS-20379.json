@@ -1,0 +1,23 @@
+{
+  "id": "SLUS-20379",
+  "title": "James Cameron's Dark Angel",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLUS-20379.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLUS-20379.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Radical Entertainment Inc",
+  "publisher": "Sierra Entertainment, Inc",
+  "date": "2002-11-18"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SLES-54949",
+  "title": "Catz",
+  "discs": 1,
+  "languages": [
+    "en",
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54949.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54949.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Ubisoft Paris",
+  "publisher": "Ubisoft",
+  "date": "2007-11-16"
+}

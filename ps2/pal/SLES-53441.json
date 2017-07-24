@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53441",
+  "title": "Heroes of the Pacific",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53441.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53441.jpg",
+  "genre": "Flight Simulator",
+  "style": "Action",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "IR Gurus",
+  "publisher": "Codemasters",
+  "date": "2005-09-23"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "SLES-54093",
+  "title": "Guitar Hero",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54093.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54093.jpg",
+  "genre": "Music",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Harmonix Music Systems",
+  "publisher": "RedOctane",
+  "date": "2006-04-07"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54218",
+  "title": "Rule of Rose",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54218.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54218.jpg",
+  "genre": "Adventure",
+  "style": "Survival Horror.",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Punchline CG",
+  "publisher": "505 Game Street",
+  "date": "2006-11-06"
+}

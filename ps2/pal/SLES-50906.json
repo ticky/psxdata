@@ -1,0 +1,24 @@
+{
+  "id": "SLES-50906",
+  "title": "Master Rallye",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50906.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50906.jpg",
+  "genre": "Driving",
+  "style": "Racing.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Steel Monkeys",
+  "publisher": "Microids",
+  "date": "2001-11-15"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52095",
+  "title": "Gradius V",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52095.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52095.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Treasure",
+  "publisher": "Konami",
+  "date": "2004-10-04"
+}

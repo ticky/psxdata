@@ -1,0 +1,22 @@
+{
+  "id": "SLES-50326",
+  "title": "Max Payne",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50326.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50326.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Remedy Entertaiment",
+  "publisher": "Rockstar Games",
+  "date": "2001-12-08"
+}

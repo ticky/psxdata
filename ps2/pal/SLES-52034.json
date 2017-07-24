@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52034",
+  "title": "Dr. Seuss The Cat in the hat",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52034.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52034.jpg",
+  "genre": "Action",
+  "style": "Platform.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Magenta Software / Digital Eclipse",
+  "publisher": "Vivendi Universal Games",
+  "date": "2004-03-19"
+}

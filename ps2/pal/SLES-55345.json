@@ -1,0 +1,23 @@
+{
+  "id": "SLES-55345",
+  "title": "007 - Quantum of Solace",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-55345.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-55345.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Eurocom Entertainment Software",
+  "publisher": "Activision",
+  "date": "2008-11-04"
+}

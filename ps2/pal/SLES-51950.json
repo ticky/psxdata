@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51950",
+  "title": "Sonic Heroes",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51950.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51950.jpg",
+  "genre": "Action",
+  "style": "Platformer.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Sonic Team",
+  "publisher": "Sega",
+  "date": "2004-02-06"
+}

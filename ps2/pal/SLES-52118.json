@@ -1,0 +1,24 @@
+{
+  "id": "SLES-52118",
+  "title": "Castlevania",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52118.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52118.jpg",
+  "commonTitle": "Castlevania / Castlevania - Lament of Innocence",
+  "genre": "Action",
+  "style": "Beat'em Up",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "KCET",
+  "publisher": "Konami",
+  "date": "2004-02-13"
+}

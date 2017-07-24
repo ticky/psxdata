@@ -1,0 +1,24 @@
+{
+  "id": "SLES-55135",
+  "title": "Lego Batman - The Videogame",
+  "discs": 1,
+  "languages": [
+    "en",
+    "da",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-55135.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-55135.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up",
+  "rating": [
+    "elspa-7",
+    "usk-0"
+  ],
+  "developer": "Traveller's Tales",
+  "publisher": "Warner Interactive",
+  "date": "2008-09-23"
+}

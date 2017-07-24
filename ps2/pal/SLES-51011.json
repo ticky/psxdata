@@ -1,0 +1,22 @@
+{
+  "id": "SLES-51011",
+  "title": "Knight Rider - The game",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51011.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51011.jpg",
+  "genre": "Action",
+  "style": "Driving.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Davilex",
+  "publisher": "Davilex",
+  "date": "2002-11-22"
+}

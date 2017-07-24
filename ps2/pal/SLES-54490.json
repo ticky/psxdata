@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54490",
+  "title": "God Hand",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54490.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54490.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Clover Studio",
+  "publisher": "Capcom",
+  "date": "2006-12-10"
+}

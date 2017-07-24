@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52005",
+  "title": "007 - Everything or nothing",
+  "discs": 1,
+  "languages": [
+    "en",
+    "nl",
+    "it",
+    "sv",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52005.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52005.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "EA Redwood Shores",
+  "publisher": "Electronic Arts",
+  "date": "2004-02-27"
+}

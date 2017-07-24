@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50230",
+  "title": "Lotus Challenge",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50230.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50230.jpg",
+  "genre": "Driving",
+  "style": "Racing.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Kuju Entertainment Ltd",
+  "publisher": "Virgin Interactive",
+  "date": "2001-11-02"
+}

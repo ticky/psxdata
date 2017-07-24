@@ -1,0 +1,23 @@
+{
+  "id": "SLES-55207",
+  "title": "Alone in the Dark",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-55207.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-55207.jpg",
+  "commonTitle": "Alone in the Dark / Alone in the Dark 5",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Hydravision",
+  "publisher": "Atari",
+  "date": "2008-06-20"
+}

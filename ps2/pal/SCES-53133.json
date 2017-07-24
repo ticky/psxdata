@@ -1,0 +1,23 @@
+{
+  "id": "SCES-53133",
+  "title": "God of War",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SCES-53133.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SCES-53133.jpg",
+  "genre": "Action",
+  "style": "Platform",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "SCE Studio Santa Monica",
+  "publisher": "Sony",
+  "date": "2005-07-08"
+}

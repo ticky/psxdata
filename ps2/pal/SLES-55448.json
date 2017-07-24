@@ -1,0 +1,23 @@
+{
+  "id": "SLES-55448",
+  "title": "Indiana Jones & the Staff of Kings",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-55448.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-55448.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "A2m",
+  "publisher": "Lucasarts",
+  "date": "2009-06-09"
+}

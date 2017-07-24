@@ -1,0 +1,23 @@
+{
+  "id": "SLES-55198",
+  "title": "Iron Man",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-55198.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-55198.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Artificial Mind and Movement (A2M)",
+  "publisher": "Sega",
+  "date": "2008-05-02"
+}

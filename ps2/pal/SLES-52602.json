@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52602",
+  "title": "GT Racers",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52602.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52602.jpg",
+  "genre": "Driving",
+  "style": "Racing.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Aqua Pacific",
+  "publisher": "Oxygen Interactive",
+  "date": "2004-11-05"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54421",
+  "title": "Happy Feet",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54421.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54421.jpg",
+  "genre": "Dancing",
+  "style": "Racing.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "A2M (Artificial Mind & Movement)",
+  "publisher": "Midway Home Entertainment, Inc. / Warner Bros. Interactive Entertainment",
+  "date": "2006-11-24"
+}

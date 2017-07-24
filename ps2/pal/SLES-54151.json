@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54151",
+  "title": "Let's make a soccer team",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54151.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54151.jpg",
+  "genre": "Strategy",
+  "style": "Soccer management.",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Smilebit",
+  "publisher": "SEGA Europe Ltd",
+  "date": "2006-08-25"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50112",
+  "title": "Shadow of Memories",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50112.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50112.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-11",
+    "usk-0"
+  ],
+  "developer": "Konami",
+  "publisher": "Konami",
+  "date": "2001-03-30"
+}

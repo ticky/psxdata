@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53716",
+  "title": "Without Warning",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53716.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53716.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "CiRCLE Studio",
+  "publisher": "Capcom",
+  "date": "2005-10-28"
+}

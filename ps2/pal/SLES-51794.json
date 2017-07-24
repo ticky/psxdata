@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51794",
+  "title": "Looney Tunes - Back in action",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51794.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51794.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Warthog",
+  "publisher": "Electronic Arts",
+  "date": "2003-11-19"
+}

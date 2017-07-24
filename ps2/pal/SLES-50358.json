@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50358",
+  "title": "Devil May Cry",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50358.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50358.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Capcom Co., Ltd",
+  "publisher": "Capcom",
+  "date": "2001-10-18"
+}

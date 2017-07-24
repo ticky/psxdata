@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54185",
+  "title": "Final Fantasy VII - Dirge of Cerberus",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54185.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54185.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "date": "2006-07-28"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54126",
+  "title": "Family Guy - The Video Game",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54126.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54126.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-18",
+    "usk-0"
+  ],
+  "developer": "High Voltage Software, Inc",
+  "publisher": "2K Games",
+  "date": "2006-10-27"
+}

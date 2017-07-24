@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51885",
+  "title": "Megaman X7",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51885.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51885.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Capcom Production Studio 3",
+  "publisher": "Capcom",
+  "date": "2003-10-14"
+}

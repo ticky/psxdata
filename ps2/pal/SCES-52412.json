@@ -1,0 +1,25 @@
+{
+  "id": "SCES-52412",
+  "title": "Jackie Chan Adventures",
+  "discs": 1,
+  "languages": [
+    "en",
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "pt"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SCES-52412.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SCES-52412.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Atomic Planet Entertainment, Ltd",
+  "publisher": "Sony",
+  "date": "2004-10-01"
+}

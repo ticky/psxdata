@@ -1,0 +1,29 @@
+{
+  "id": "SLES-53504",
+  "title": "Agent Hugo",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "sv",
+    "fi",
+    "pt",
+    "no",
+    "pl"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53504.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53504.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "ITE Media",
+  "publisher": "ITE Media",
+  "date": "2005-10-15"
+}

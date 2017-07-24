@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52853",
+  "title": "Miami Vice",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52853.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52853.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Atomic Planet",
+  "publisher": "Davilex",
+  "date": "2004-12-03"
+}

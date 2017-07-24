@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53234",
+  "title": "Samurai Western",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53234.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53234.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Acquire",
+  "publisher": "505 GameStreet",
+  "date": "2005-06-30"
+}

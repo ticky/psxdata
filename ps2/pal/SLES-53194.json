@@ -1,0 +1,25 @@
+{
+  "id": "SLES-53194",
+  "title": "Lego Star Wars - The Videogame",
+  "discs": 1,
+  "languages": [
+    "en",
+    "da",
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53194.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53194.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Traveller's Tales",
+  "publisher": "Eidos Interactive",
+  "date": "2005-04-22"
+}

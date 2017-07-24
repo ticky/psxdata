@@ -1,0 +1,23 @@
+{
+  "id": "SLES-50773",
+  "title": "Disney's Donald Duck PK",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-50773.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-50773.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Ubisoft",
+  "publisher": "Ubisoft / Disney Interactive",
+  "date": "2002-10-04"
+}

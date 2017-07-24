@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53481",
+  "title": "10.000 Bullets",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53481.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53481.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Blue Moon",
+  "publisher": "Taito",
+  "date": "2005-06-10"
+}

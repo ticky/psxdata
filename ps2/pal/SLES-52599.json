@@ -1,0 +1,23 @@
+{
+  "id": "SLES-52599",
+  "title": "Metal Slug 3",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-52599.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-52599.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "SNK Playmore",
+  "publisher": "Ignition Entertaiment",
+  "date": "2004-11-12"
+}

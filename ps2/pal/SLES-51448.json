@@ -1,0 +1,23 @@
+{
+  "id": "SLES-51448",
+  "title": "Resident Evil - Dead Aim",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-51448.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-51448.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-15",
+    "usk-0"
+  ],
+  "developer": "Cavia",
+  "publisher": "Capcom",
+  "date": "2003-07-09"
+}

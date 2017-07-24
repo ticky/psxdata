@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53539",
+  "title": "Fahrenheit",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53539.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53539.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Quantic Dreams",
+  "publisher": "Atari",
+  "date": "2005-09-16"
+}

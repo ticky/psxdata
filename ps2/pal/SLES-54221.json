@@ -1,0 +1,24 @@
+{
+  "id": "SLES-54221",
+  "title": "Lego Star Wars II - The Original Trilogy",
+  "discs": 1,
+  "languages": [
+    "en",
+    "da",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54221.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54221.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Traveller's Tales",
+  "publisher": "Lucasarts",
+  "date": "2006-09-08"
+}

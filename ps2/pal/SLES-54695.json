@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54695",
+  "title": "Azur & Asmar",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54695.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54695.jpg",
+  "genre": "Action",
+  "style": "Platformer.",
+  "rating": [
+    "elspa-7",
+    "usk-0"
+  ],
+  "developer": "Wizarbox",
+  "publisher": "Emme",
+  "date": "2007-04-26"
+}

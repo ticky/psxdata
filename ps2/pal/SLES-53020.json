@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53020",
+  "title": "Ghost in the Shell - Stand Alone Complex",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53020.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53020.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Cavia",
+  "publisher": "Atari",
+  "date": "2005-05-06"
+}

@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLUS-20484",
+    "SLUS-20627"
+  ],
+  "title": "Devil May Cry 2",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLUS-20484.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLUS-20484.jpg",
+  "genre": "Action",
+  "style": "Platformer",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "date": "2003-01-29"
+}

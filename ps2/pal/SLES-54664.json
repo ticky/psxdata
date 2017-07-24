@@ -1,0 +1,29 @@
+{
+  "id": "SLES-54664",
+  "title": "Top Gun",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "sv",
+    "no",
+    "da",
+    "fi"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54664.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54664.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Atomic Planet Entertainment",
+  "publisher": "Blast! Entertainment",
+  "date": "2007-10-05"
+}

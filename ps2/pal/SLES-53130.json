@@ -1,0 +1,23 @@
+{
+  "id": "SLES-53130",
+  "title": "World Championship Poker",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53130.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53130.jpg",
+  "genre": "Gambling",
+  "style": "Poker",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
+  "developer": "Coresoft",
+  "publisher": "Play it!",
+  "date": "2005-10-07"
+}

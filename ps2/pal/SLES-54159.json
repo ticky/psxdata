@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54159",
+  "title": "Eragon",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54159.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54159.jpg",
+  "genre": "Action",
+  "style": "Beat'em Up.",
+  "rating": [
+    "elspa-16",
+    "usk-0"
+  ],
+  "developer": "Stormfront Studios",
+  "publisher": "Sierra Entertainment",
+  "date": "2006-11-24"
+}

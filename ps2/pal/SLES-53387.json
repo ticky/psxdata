@@ -1,0 +1,25 @@
+{
+  "id": "SLES-53387",
+  "title": "Batman Begins",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-53387.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-53387.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "elspa-12",
+    "usk-0"
+  ],
+  "developer": "Eurocom Developments Ltd",
+  "publisher": "Electronic Arts",
+  "date": "2005-06-14"
+}

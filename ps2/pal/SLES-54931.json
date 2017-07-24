@@ -1,0 +1,23 @@
+{
+  "id": "SLES-54931",
+  "title": "Looney Tunes - Acme Arsenal",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/psx2/games2/SLES-54931.html",
+  "coverLink": "http://psxdatacenter.com/psx2/images2/covers/SLES-54931.jpg",
+  "genre": "Action",
+  "style": "Shooter.",
+  "rating": [
+    "elspa-7",
+    "usk-0"
+  ],
+  "developer": "Redtribe",
+  "publisher": "Warner Bros. Interactive Entertainment",
+  "date": "2007-10-09"
+}
