@@ -8236,8 +8236,12 @@
   },
   {
     "id": "SLPS-01942",
-    "title": "Doki Doki On Air 2",
-    "discs": 1
+    "title": "DOKI DOKI ON AIR 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/D/SLPS-01942.html"
   },
   {
     "id": "SLPS-01573",
@@ -16924,11 +16928,6 @@
     "link": "http://psxdatacenter.com/games/J/K/SLPS-03079.html"
   },
   {
-    "id": "SLPS-02717",
-    "title": "Kaitai Eddy",
-    "discs": 1
-  },
-  {
     "id": "SLPS-00086",
     "title": "KAITEI DAISENSOU - IN THE HUNT",
     "discs": 1,
@@ -17128,8 +17127,12 @@
   },
   {
     "id": "SLPS-00052",
-    "title": "Kanazawa Shogi '95",
-    "discs": 1
+    "title": "KANAZAWA SHOUGI '95",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/K/SLPS-00052.html"
   },
   {
     "id": "SLPS-02059",
@@ -17386,6 +17389,15 @@
       "jp"
     ],
     "link": "http://psxdatacenter.com/games/J/K/SLPS-02339.html"
+  },
+  {
+    "id": "SLPS-02717",
+    "title": "KEITAI EDDY",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/K/SLPS-02717.html"
   },
   {
     "id": "SLPS-00496",
@@ -18529,8 +18541,12 @@
   },
   {
     "id": "SLPS-02746",
-    "title": "Kita Denshi Virtua Pachi-Slot 2",
-    "discs": 1
+    "title": "KITA DENSHI - VIRTUA PACHI-SLOT 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/games/J/K/SLPS-02746.html"
   },
   {
     "id": "SLPS-01395",

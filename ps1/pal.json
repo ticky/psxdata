@@ -16765,13 +16765,23 @@
   },
   {
     "id": "SLES-02061",
-    "title": "PGA EUROPEAN TOUR",
+    "title": "PGA EUROPEAN TOUR GOLF",
     "discs": 1,
     "languages": [
       "en",
       "de"
     ],
     "link": "http://psxdatacenter.com/games/P/P/SLES-02061.html"
+  },
+  {
+    "id": "SLES-02396",
+    "title": "PGA European Tour Golf",
+    "discs": 1,
+    "languages": [
+      "fr",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLES-00073",
