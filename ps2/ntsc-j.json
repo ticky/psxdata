@@ -18979,13 +18979,21 @@
   },
   {
     "id": "SLPM-66791",
-    "title": "Memories Off #5 Encore",
-    "discs": 1
+    "title": "MEMORIES OFF #5 - ENCORE",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-66791.html"
   },
   {
     "id": "CF00-15022",
-    "title": "Memories Off #5 Encore (Limited Edition)",
-    "discs": 1
+    "title": "MEMORIES OFF #5 - ENCORE [LIMITED EDITION]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/CF00-15022.html"
   },
   {
     "id": "SLPM-66147",
@@ -19378,44 +19386,81 @@
   },
   {
     "id": "SLKA-25251",
-    "title": "Metal Gear Solid 3 - Snake Eater",
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER",
     "discs": 1,
     "languages": [
       "kr"
-    ]
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLKA-25251.html"
   },
   {
     "id": "SLPM-65790",
-    "title": "Metal Gear Solid 3 - Snake Eater",
-    "discs": 1
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-65790.html"
   },
   {
     "id": "SLKA-25472",
-    "title": "Metal Gear Solid 3 - Snake Eater (Big Hit Series)",
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER [BIGHIT SERIES]",
     "discs": 1,
     "languages": [
       "kr"
-    ]
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLKA-25472.html"
+  },
+  {
+    "id": [
+      "SLPM-55236",
+      "SLPM-55237"
+    ],
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER [KONAMI DENDOU SELECTION]",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-55236.html"
   },
   {
     "id": "SLPM-66794",
-    "title": "Metal Gear Solid 3 - Snake Eater (Metal Gear 20th Anniversary Edition)",
-    "discs": 1
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER [METAL GEAR 20TH ANNIVERSARY]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-66794.html"
   },
   {
-    "id": "SLPM-74257",
-    "title": "Metal Gear Solid 3 - Snake Eater (Playstation 2 The Best)",
-    "discs": 1
+    "id": [
+      "SLPM-74257",
+      "SLPM-74258"
+    ],
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER [PLAYSTATION 2 THE BEST]",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-74257.html"
   },
   {
     "id": "SLPM-65789",
-    "title": "Metal Gear Solid 3 - Snake Eater (Premium Package)",
-    "discs": 1
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER [PREMIUM PACKAGE]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-65789.html"
   },
   {
     "id": "SLPM-68516",
-    "title": "Metal Gear Solid 3 - Snake Eater (Shareaholder Edition)",
-    "discs": 1
+    "title": "METAL GEAR SOLID 3 - SNAKE EATER [SHAREHOLDER EDITION]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-68516.html"
   },
   {
     "id": [
@@ -19529,17 +19574,22 @@
     "link": "http://psxdatacenter.com/psx2/games2/SLPS-25428.html"
   },
   {
-    "id": "SLKA-25287",
-    "title": "Metal Slug 4",
+    "id": "SLPS-25376",
+    "title": "METAL SLUG 4",
     "discs": 1,
     "languages": [
-      "en"
-    ]
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPS-25376.html"
   },
   {
     "id": "SLPS-25571",
-    "title": "Metal Slug 4 (SNK Best Collection)",
-    "discs": 1
+    "title": "METAL SLUG 4 [SNK BEST COLLECTION]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPS-25571.html"
   },
   {
     "id": [
@@ -19584,13 +19634,21 @@
   },
   {
     "id": "SLPM-65553",
-    "title": "Metal Wolf Rev",
-    "discs": 1
+    "title": "METAL WOLF REV",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-65553.html"
   },
   {
     "id": "SLPM-65552",
-    "title": "Metal Wolf Rev (Limited Edition)",
-    "discs": 1
+    "title": "METAL WOLF REV [LIMITED EDITION]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-65552.html"
   },
   {
     "id": "SLPM-65480",
@@ -19627,8 +19685,12 @@
   },
   {
     "id": "SLPS-20255",
-    "title": "Million Gold",
-    "discs": 1
+    "title": "MILLION GOD",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPS-20255.html"
   },
   {
     "id": "SCKA-20051",
@@ -19824,13 +19886,21 @@
   },
   {
     "id": "SLPS-25301",
-    "title": "Missing  Parts Side A - The Tantei Stories",
-    "discs": 1
+    "title": "MISSING PARTS SIDE A - THE TANTEI STORIES",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPS-25301.html"
   },
   {
-    "id": "SLPM-66768",
-    "title": "Missing  Parts Side A - The Tantei Stories (Best Version)",
-    "discs": 1
+    "id": "SLPM-66758",
+    "title": "MISSING PARTS SIDE A - THE TANTEI STORIES [NICE PRICE!]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "http://psxdatacenter.com/psx2/games2/SLPM-66758.html"
   },
   {
     "id": "SLPS-25340",
