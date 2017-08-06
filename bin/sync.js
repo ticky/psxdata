@@ -22,7 +22,7 @@ const promiseRequest = (url) => (
         url,
         ttl: (
           ARGUMENTS.indexOf('--from-cache') === -1
-            ? 0
+            ? 36000
             : Infinity
         )
       },
