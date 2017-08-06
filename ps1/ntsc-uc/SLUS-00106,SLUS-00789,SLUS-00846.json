@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLUS-00106",
+    "SLUS-00789",
+    "SLUS-00846"
+  ],
+  "title": "Grand Theft Auto - Collector's Edition",
+  "discs": 3,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/G/SLUS-00106CE.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/G/SLUS-00106CE.jpg",
+  "genre": "Action",
+  "style": "Driving",
+  "rating": [
+    "esrb-m",
+    "usk-0"
+  ],
+  "developer": "DMA Design",
+  "publisher": "Rockstar Games",
+  "date": "2002-12-17"
+}

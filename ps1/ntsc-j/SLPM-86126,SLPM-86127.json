@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLPM-86126",
+    "SLPM-86127"
+  ],
+  "title": "Beatmania",
+  "includes": "Arcade 2nd Mix + Append Yebisu Mix",
+  "discs": 2,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/B/SLPM-86126.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/B/SLPM-86126.jpg",
+  "genre": "Music",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "KCE Japan",
+  "publisher": "Konami",
+  "date": "1998-10-01"
+}

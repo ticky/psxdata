@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLPS-02460",
+    "SLPS-02461",
+    "SLPS-02462",
+    "SLPS-02463"
+  ],
+  "title": "Koudelka",
+  "discs": 4,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/K/SLPS-02460.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/K/SLPS-02460.jpg",
+  "genre": "RPG",
+  "style": "Survival horror",
+  "rating": [
+    "esrb-m",
+    "usk-0"
+  ],
+  "developer": "Sacnoth",
+  "publisher": "SNK",
+  "date": "1999-12-16"
+}

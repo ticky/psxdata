@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SCPS-45007",
+    "SCPS-45008",
+    "SCPS-45009"
+  ],
+  "title": "Final Fantasy VII",
+  "discs": 3,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/F/SCPS-45007.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/F/SCPS-45007.jpg",
+  "commonTitle": "Final Fantasy 7 or FF7",
+  "genre": "RPG",
+  "style": "Mini Games",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Sony / Squaresoft",
+  "date": "1997-01-31"
+}

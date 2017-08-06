@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLPS-00117",
+    "SLPS-00118",
+    "SLPS-00119"
+  ],
+  "title": "Emit Value Pack",
+  "discs": 3,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/E/SLPS-00117.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/E/SLPS-00117.jpg",
+  "genre": "Adventure",
+  "style": "Educational",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "KOEI",
+  "publisher": "KOEI",
+  "date": "1995-09-29"
+}

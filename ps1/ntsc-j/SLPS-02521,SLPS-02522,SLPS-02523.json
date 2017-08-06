@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLPS-02521",
+    "SLPS-02522",
+    "SLPS-02523"
+  ],
+  "title": "Chocobo Collection",
+  "includes": "Chocobo Collection Happy 10th Anniversary + Dice de Chocobo",
+  "discs": 3,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/C/SLPS-02521.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/C/SLPS-02521.jpg",
+  "genre": "Racing",
+  "style": "Breeding",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "1999-12-22"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SLUS-00029",
+  "title": "Magic Carpet",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/U/M/SLUS-00029.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/M/SLUS-00029.jpg",
+  "genre": "Action",
+  "style": "Shooter",
+  "rating": [
+    "esrb-ka",
+    "usk-0"
+  ],
+  "developer": "Bullfrog Productions / Krisalis",
+  "publisher": "Electronic Arts",
+  "date": "1996-03-15"
+}

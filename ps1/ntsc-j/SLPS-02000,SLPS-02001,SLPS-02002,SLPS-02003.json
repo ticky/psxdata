@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLPS-02000",
+    "SLPS-02001",
+    "SLPS-02002",
+    "SLPS-02003"
+  ],
+  "title": "Final Fantasy IX",
+  "discs": 4,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/F/SLPS-02000.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/F/SLPS-02000.jpg",
+  "commonTitle": "Final Fantasy IX / FF9 / FFIX",
+  "genre": "RPG",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "2000-07-07"
+}

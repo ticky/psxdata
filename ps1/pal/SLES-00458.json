@@ -10,7 +10,10 @@
   "link": "http://psxdatacenter.com/games/P/B/SLES-00458.html",
   "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00458.jpg",
   "genre": "Platformer",
+  "rating": [
+    "elspa-3",
+    "usk-0"
+  ],
   "developer": "Taito / East Point Software",
-  "publisher": "Virgin Interactive (but never released the game)",
-  "date": "None"
+  "publisher": "Virgin Interactive (but never released the game)"
 }

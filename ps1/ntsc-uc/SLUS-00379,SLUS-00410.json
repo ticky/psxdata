@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLUS-00379",
+    "SLUS-00410"
+  ],
+  "title": "Command & Conquer",
+  "includes": "GDI + NOD discs",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/C/SLUS-00379.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/C/SLUS-00379.jpg",
+  "genre": "Strategy",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Westwood Studios",
+  "publisher": "Virgin Interactive",
+  "date": "1997-03-10"
+}

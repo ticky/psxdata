@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLPS-01880",
+    "SLPS-01881",
+    "SLPS-01882",
+    "SLPS-01883"
+  ],
+  "title": "Final Fantasy VIII",
+  "discs": 4,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/F/SLPS-01880.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/F/SLPS-01880.jpg",
+  "commonTitle": "Final Fantasy VIII / FF8 / FFVIII",
+  "genre": "RPG",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "1999-02-11"
+}

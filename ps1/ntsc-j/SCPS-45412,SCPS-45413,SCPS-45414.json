@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SCPS-45412",
+    "SCPS-45413",
+    "SCPS-45414"
+  ],
+  "title": "Metal Gear Solid Integral",
+  "discs": 3,
+  "languages": [
+    "en",
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/M/SCPS-45412.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/M/SCPS-45412.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "esrb-m",
+    "usk-0"
+  ],
+  "developer": "KCE Japan",
+  "publisher": "Konami",
+  "date": "1999-06-24"
+}

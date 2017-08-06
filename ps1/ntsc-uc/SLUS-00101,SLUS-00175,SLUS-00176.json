@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLUS-00101",
+    "SLUS-00175",
+    "SLUS-00176"
+  ],
+  "title": "Fox Hunt",
+  "discs": 3,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/F/SLUS-00101.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/F/SLUS-00101.jpg",
+  "genre": "Adventure",
+  "style": "Interactive movie",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "3Vision Games",
+  "publisher": "Capcom",
+  "date": "1996-10-25"
+}

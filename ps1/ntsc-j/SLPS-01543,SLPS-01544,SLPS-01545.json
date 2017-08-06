@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLPS-01543",
+    "SLPS-01544",
+    "SLPS-01545"
+  ],
+  "title": "Neko Zamurai",
+  "discs": 3,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/N/SLPS-01543.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/N/SLPS-01543.jpg",
+  "genre": "Adventure",
+  "style": "Interactive Movie",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Aim at Entertainment",
+  "publisher": "Human Entertaiment",
+  "date": "1999-03-04"
+}

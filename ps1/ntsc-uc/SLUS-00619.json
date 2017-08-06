@@ -1,0 +1,22 @@
+{
+  "id": "SLUS-00619",
+  "title": "Diablo",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "sv"
+  ],
+  "link": "http://psxdatacenter.com/games/U/D/SLUS-00619.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/D/SLUS-00619.jpg",
+  "genre": "Action",
+  "style": "RPG",
+  "rating": [
+    "esrb-m",
+    "usk-0"
+  ],
+  "developer": "Climax Group",
+  "publisher": "Electronic Arts / Blizzard Entertaiment",
+  "date": "1998-03-11"
+}

@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SCPS-45441",
+    "SCPS-45442",
+    "SCPS-45443",
+    "SCPS-45444"
+  ],
+  "title": "Koudelka",
+  "discs": 4,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/K/SCPS-45441.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/K/SCPS-45441.jpg",
+  "genre": "RPG",
+  "style": "Survival horror",
+  "rating": [
+    "esrb-m",
+    "usk-0"
+  ],
+  "developer": "Sacnoth",
+  "publisher": "SNK",
+  "date": "1999-12-16"
+}

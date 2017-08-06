@@ -1,0 +1,29 @@
+{
+  "id": [
+    "SLUS-01224",
+    "SLUS-01252",
+    "SLUS-01253",
+    "SLUS-01254",
+    "SLUS-01255",
+    "SLUS-01256"
+  ],
+  "title": "Arc the Lad Collection",
+  "includes": [
+    "Arc The Lad - Arc The Lad II - Arc The Lad III (2 Discs)",
+    "Arc The Lad - Monster Tournament - Battle Arena & Arc The Lad - The Making Of Disc"
+  ],
+  "discs": 6,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/A/SLUS-01224.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/A/SLUS-01224.jpg",
+  "genre": "RPG",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "G-Craft",
+  "publisher": "Working Designs",
+  "date": "2002-04-18"
+}

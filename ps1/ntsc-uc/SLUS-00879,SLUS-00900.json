@@ -1,0 +1,22 @@
+{
+  "id": [
+    "SLUS-00879",
+    "SLUS-00900"
+  ],
+  "title": "Final Fantasy Anthology",
+  "includes": "Final Fantasy V and Final Fantasy VI",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/F/SLUS-00879.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/F/SLUS-00879.jpg",
+  "genre": "RPG",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "1999-10-01"
+}

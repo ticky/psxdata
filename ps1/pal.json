@@ -3351,14 +3351,15 @@
   },
   {
     "id": "SLES-00458",
-    "title": "BUBBLE BOBBLE 2 - BUBBLE SYMPHONY",
+    "title": "Bubble Bobble 2 - Bubble Symphony",
     "languages": [
       "en",
       "de",
       "es"
     ],
     "link": "http://psxdatacenter.com/games/P/B/SLES-00458.html",
-    "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00458.jpg"
+    "coverLink": "http://psxdatacenter.com/images/covers/P/B/SLES-00458.jpg",
+    "dataLink": "pal/SLES-00458.json"
   },
   {
     "id": "SLES-00122",
@@ -13315,12 +13316,13 @@
   },
   {
     "id": "SLES-01039",
-    "title": "KICK OFF WORLD",
-    "discs": 1,
+    "title": "Kick Off World",
     "languages": [
       "en"
     ],
-    "link": "http://psxdatacenter.com/games/P/K/SLES-01039.html"
+    "link": "http://psxdatacenter.com/games/P/K/SLES-01039.html",
+    "coverLink": "http://psxdatacenter.com/images/covers/P/K/SLES-01039.jpg",
+    "dataLink": "pal/SLES-01039.json"
   },
   {
     "id": "SLES-01061",
@@ -17066,7 +17068,7 @@
       "SLES-03496",
       "SLES-13496"
     ],
-    "title": "Necronomicon - The Dawning of Darkness",
+    "title": "Necronomicon",
     "languages": [
       "it"
     ],

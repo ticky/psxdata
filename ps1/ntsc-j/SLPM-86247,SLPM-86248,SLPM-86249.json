@@ -1,0 +1,24 @@
+{
+  "id": [
+    "SLPM-86247",
+    "SLPM-86248",
+    "SLPM-86249"
+  ],
+  "title": "Metal Gear Solid Integral",
+  "discs": 3,
+  "languages": [
+    "en",
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/M/SLPM-86247.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/M/SLPM-86247.jpg",
+  "genre": "Action",
+  "style": "Adventure",
+  "rating": [
+    "esrb-m",
+    "usk-0"
+  ],
+  "developer": "KCE Japan",
+  "publisher": "Konami",
+  "date": "1999-06-24"
+}

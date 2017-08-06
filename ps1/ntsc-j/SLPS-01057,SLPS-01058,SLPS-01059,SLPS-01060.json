@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLPS-01057",
+    "SLPS-01058",
+    "SLPS-01059",
+    "SLPS-01060"
+  ],
+  "title": "Final Fantasy VII International",
+  "includes": "Final Fantasy VII International + Bonus Disc",
+  "discs": 4,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/F/SLPS-01057.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/F/SLPS-01057.jpg",
+  "commonTitle": "Final Fantasy 7 International or FF7 International",
+  "genre": "RPG",
+  "style": "Mini Games",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "1997-02-10"
+}

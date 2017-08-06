@@ -1,0 +1,24 @@
+{
+  "id": "SLUS-00744",
+  "title": "Formula 1 '98",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "fi"
+  ],
+  "link": "http://psxdatacenter.com/games/U/F/SLUS-00744.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/F/SLUS-00744.jpg",
+  "genre": "Racing",
+  "style": "Driving",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "Visual Sciences",
+  "publisher": "Psygnosis",
+  "date": "1998-12-15"
+}

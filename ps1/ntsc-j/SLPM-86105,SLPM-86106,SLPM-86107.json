@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLPM-86105",
+    "SLPM-86106",
+    "SLPM-86107"
+  ],
+  "title": "Star Ocean The Second Story",
+  "includes": "Star Ocean - The Second Story + Bonus Disc (Astronoka Preview)",
+  "discs": 3,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/S/SLPM-86105.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/S/SLPM-86105.jpg",
+  "genre": "RPG",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "tri-Ace",
+  "publisher": "Enix",
+  "date": "1998-07-20"
+}

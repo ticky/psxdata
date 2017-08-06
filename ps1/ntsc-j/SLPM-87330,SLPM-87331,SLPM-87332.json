@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLPM-87330",
+    "SLPM-87331",
+    "SLPM-87332"
+  ],
+  "title": "Front Mission History",
+  "includes": "Front Mission 1st + Front Mission 2 + Front Mission 3",
+  "discs": 3,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/F/SLPM-87330.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/F/SLPM-87330.jpg",
+  "genre": "Tactical RPG",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "2003-12-11"
+}

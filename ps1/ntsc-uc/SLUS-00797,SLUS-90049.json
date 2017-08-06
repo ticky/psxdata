@@ -1,0 +1,23 @@
+{
+  "id": [
+    "SLUS-00797",
+    "SLUS-90049"
+  ],
+  "title": "R4 - Ridge Racer Type 4",
+  "includes": "Ridge Racer Type 4 + Bonus Disc",
+  "discs": 2,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/R/SLUS-00797.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/R/SLUS-00797.jpg",
+  "genre": "Driving",
+  "style": "Racing",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "Namco",
+  "publisher": "Namco",
+  "date": "1999-05-05"
+}

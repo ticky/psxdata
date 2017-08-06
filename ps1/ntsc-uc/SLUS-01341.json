@@ -1,0 +1,20 @@
+{
+  "id": "SLUS-01341",
+  "title": "Virtual Kasparov",
+  "discs": 1,
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "link": "http://psxdatacenter.com/games/U/V/SLUS-01341.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/V/SLUS-01341.jpg",
+  "genre": "Chess",
+  "rating": [
+    "esrb-e",
+    "usk-0"
+  ],
+  "developer": "Titus Software",
+  "publisher": "Titus Software",
+  "date": "2001-08-15"
+}

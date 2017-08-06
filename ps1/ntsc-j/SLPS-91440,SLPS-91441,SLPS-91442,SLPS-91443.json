@@ -1,0 +1,26 @@
+{
+  "id": [
+    "SLPS-91440",
+    "SLPS-91441",
+    "SLPS-91442",
+    "SLPS-91443"
+  ],
+  "title": "Final Fantasy VII International [PSOne Books]",
+  "includes": "Final Fantasy VII International [Psone Books] + Bonus Disc",
+  "discs": 4,
+  "languages": [
+    "jp"
+  ],
+  "link": "http://psxdatacenter.com/games/J/F/SLPS-91440.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/J/F/SLPS-91440.jpg",
+  "commonTitle": "Final Fantasy 7 International [PSOne Books] or FF7 International [PSOne Books]",
+  "genre": "RPG",
+  "style": "Mini Games",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "2001-12-20"
+}

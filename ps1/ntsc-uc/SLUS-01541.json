@@ -1,0 +1,20 @@
+{
+  "id": "SLUS-01541",
+  "title": "Final Fantasy - Origins",
+  "includes": "Final Fantasy + Final Fantasy II",
+  "discs": 1,
+  "languages": [
+    "en"
+  ],
+  "link": "http://psxdatacenter.com/games/U/F/SLUS-01541.html",
+  "coverLink": "http://psxdatacenter.com/images/covers/U/F/SLUS-01541.jpg",
+  "commonTitle": "Final Fantasy - Origins / Final Fantasy I & II - Origins",
+  "genre": "RPG",
+  "rating": [
+    "esrb-t",
+    "usk-0"
+  ],
+  "developer": "Squaresoft",
+  "publisher": "Squaresoft",
+  "date": "2003-04-09"
+}
