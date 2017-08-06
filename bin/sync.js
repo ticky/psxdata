@@ -9,6 +9,7 @@ const consumeTitlePage = require('../lib/consumeTitlePage');
 const request = require('request');
 const cachedRequest = require('cached-request')(request);
 cachedRequest.setCacheDirectory(path.join(__dirname, '../.cache'));
+cachedRequest.setValue('ttl', 5184000000); // two months lol
 
 const SOURCES = {
   ps1: {
