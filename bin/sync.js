@@ -6,10 +6,35 @@ const { JSDOM } = require('jsdom');
 const consumeIndex = require('../lib/consumeIndex');
 const consumeTitlePage = require('../lib/consumeTitlePage');
 
-const request = require('request');
-const cachedRequest = require('cached-request')(request);
+const ARGUMENTS = process.argv.slice(2);
+
+const cachedRequest = require('cached-request')(require('request'));
 cachedRequest.setCacheDirectory(path.join(__dirname, '../.cache'));
-cachedRequest.setValue('ttl', 5184000000); // two months lol
+
+const promiseRequest = (url) => (
+  new Promise((resolve, reject) => {
+    cachedRequest(
+      {
+        // `encoding: null` makes `body` return a Buffer,
+        // which will force JSDOM to sniff encoding, rather
+        // than fall back to UTF-8
+        encoding: null,
+        url,
+        ttl: (
+          ARGUMENTS.indexOf('--from-cache') === -1
+            ? 0
+            : Infinity
+        )
+      },
+      (error, response, body) => {
+        if (error) {
+          reject(error);
+        }
+        resolve(body);
+      }
+    );
+  })
+);
 
 const SOURCES = {
   ps1: {
@@ -42,91 +67,67 @@ Object.keys(SOURCES).forEach((platform) => {
 
       console.log(`processing '${url}'...`)
 
-      return new Promise((resolve, reject) => {
-        // `encoding: null` makes `body` return a Buffer,
-        // which will force JSDOM to sniff encoding, rather
-        // than fall back to UTF-8
-        cachedRequest({ url, encoding: null },
-          (error, response, body) => {
-            if (error) {
-              reject(error);
-            }
-            resolve(body);
+      return promiseRequest(url)
+        .then((body) => {
+          try {
+            console.debug(body);
+            const dom = new JSDOM(body, { url });
+            const index = consumeIndex(dom.window.document);
+            dom.window.close();
+            delete dom;
+            return index;
+          } catch (error) {
+            console.error(`error processing ${platform}/${region}`, error);
+            throw error;
           }
-        );
-      })
-      .then((body) => {
-        try {
-          console.debug(body);
-          const dom = new JSDOM(body, { url });
-          const index = consumeIndex(dom.window.document);
-          dom.window.close();
-          delete dom;
-          return index;
-        } catch (error) {
-          console.error(`error processing ${platform}/${region}`, error);
-          throw error;
-        }
-      })
-      .then((index) => {
-        const regionQueue = new Queue();
+        })
+        .then((index) => {
+          const regionQueue = new Queue();
 
-        index.forEach((entry, entryIndex) => {
-          if (entry.link) {
-            regionQueue.add(() => {
-              console.log(`processing '${entry.link}' (#${entryIndex})...`);
+          index.forEach((entry, entryIndex) => {
+            if (entry.link) {
+              regionQueue.add(() => {
+                console.log(`processing '${entry.link}' (#${entryIndex})...`);
 
-              return new Promise((resolve, reject) => {
-                // `encoding: null` makes `body` return a Buffer,
-                // which will force JSDOM to sniff encoding, rather
-                // than fall back to UTF-8
-                cachedRequest({ url: entry.link, encoding: null },
-                  (error, response, body) => {
-                    if (error) {
-                      reject(error);
+                return promiseRequest(entry.link)
+                  .then((body) => {
+                    try {
+                      const dom = new JSDOM(body, { url: entry.link });
+                      const data = consumeTitlePage(dom.window.document, entry);
+                      dom.window.close();
+                      delete dom;
+                      return data;
+                    } catch (error) {
+                      console.error(`error processing ${platform}/${region}/${entry.title}`, error);
+                      throw error;
                     }
-                    resolve(body);
-                  }
-                );
-              })
-              .then((body) => {
-                try {
-                  const dom = new JSDOM(body, { url: entry.link });
-                  const data = consumeTitlePage(dom.window.document, entry);
-                  dom.window.close();
-                  delete dom;
-                  return data;
-                } catch (error) {
-                  console.error(`error processing ${platform}/${region}/${entry.title}`, error);
-                  throw error;
-                }
-              })
-              .then((title) => {
-                const titleId = (title.id instanceof Array) ? title.id.join(',') : title.id;
-                const outputFilePath = path.join(region, `${titleId}.json`);
-                const outputFile = path.join(__dirname, '..', platform, outputFilePath);
+                  })
+                  .then((title) => {
+                    const titleId = (title.id instanceof Array) ? title.id.join(',') : title.id;
+                    const outputFilePath = path.join(region, `${titleId}.json`);
+                    const outputFile = path.join(__dirname, '..', platform, outputFilePath);
 
-                return fs.outputJson(outputFile, title, JSON_OPTIONS)
-                  .then(() => {
-                    entry.dataLink = outputFilePath;
-                    return entry;
+                    return fs.outputJson(outputFile, title, JSON_OPTIONS)
+                      .then(() => {
+                        entry.dataLink = outputFilePath;
+                        return entry;
+                      });
                   });
               });
-            });
-          }
-        });
-
-        return regionQueue.done()
-          .then(() => index);
-      })
-      .then((index) => {
-        const outputFile = path.join(__dirname, '..', platform, `${region}.json`);
-
-        return fs.outputJson(outputFile, index, JSON_OPTIONS)
-          .then(() => {
-            return index;
+            }
           });
-      });
+
+          return regionQueue.done()
+            .then(() => index);
+        })
+        .then((index) => {
+          const outputFile = path.join(__dirname, '..', platform, `${region}.json`);
+
+          return fs.outputJson(outputFile, index, JSON_OPTIONS)
+            .then(() => {
+              return index;
+            });
+        });
     });
   });
 });
