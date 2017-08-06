@@ -5,19 +5,19 @@ const consumeIndex = require('../lib/consumeIndex');
 
 const SOURCES = {
   ps1: {
-    'ntsc-j': 'http://psxdatacenter.com/jlist.html',
-    'ntsc-uc': 'http://psxdatacenter.com/ulist.html',
-    'pal': 'http://psxdatacenter.com/plist.html'
+    'ntsc-j': 'https://psxdatacenter.com/jlist.html',
+    'ntsc-uc': 'https://psxdatacenter.com/ulist.html',
+    'pal': 'https://psxdatacenter.com/plist.html'
   },
   ps2: {
-    'ntsc-j': 'http://psxdatacenter.com/psx2/jlist2.html',
-    'ntsc-uc': 'http://psxdatacenter.com/psx2/ulist2.html',
-    'pal': 'http://psxdatacenter.com/psx2/plist2.html'
+    'ntsc-j': 'https://psxdatacenter.com/psx2/jlist2.html',
+    'ntsc-uc': 'https://psxdatacenter.com/psx2/ulist2.html',
+    'pal': 'https://psxdatacenter.com/psx2/plist2.html'
   },
   psp: {
-    'ntsc-j': 'http://psxdatacenter.com/psp/jlist.html',
-    'ntsc-uc': 'http://psxdatacenter.com/psp/ulist.html',
-    'pal': 'http://psxdatacenter.com/psp/plist.html'
+    'ntsc-j': 'https://psxdatacenter.com/psp/jlist.html',
+    'ntsc-uc': 'https://psxdatacenter.com/psp/ulist.html',
+    'pal': 'https://psxdatacenter.com/psp/plist.html'
   }
 };
 
