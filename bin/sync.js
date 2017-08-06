@@ -1,4 +1,4 @@
-const fs = require('fs-then-native');
+const fs = require('fs-extra');
 const path = require('path');
 const Queue = require('queue-that-promise');
 const { JSDOM } = require('jsdom');
@@ -27,6 +27,8 @@ const SOURCES = {
     'pal': 'http://psxdatacenter.com/psp/plist.html'
   }
 };
+
+const JSON_OPTIONS = { spaces: '  ' };
 
 const mainQueue = new Queue();
 
@@ -103,7 +105,7 @@ Object.keys(SOURCES).forEach((platform) => {
                 const outputFilePath = path.join(region, `${titleId}.json`);
                 const outputFile = path.join(__dirname, '..', platform, outputFilePath);
 
-                return fs.writeFile(outputFile, `${JSON.stringify(title, null, '  ')}\n`)
+                return fs.outputJson(outputFile, title, JSON_OPTIONS)
                   .then(() => {
                     entry.dataLink = outputFilePath;
                     return entry;
@@ -119,7 +121,7 @@ Object.keys(SOURCES).forEach((platform) => {
       .then((index) => {
         const outputFile = path.join(__dirname, '..', platform, `${region}.json`);
 
-        return fs.writeFile(outputFile, `${JSON.stringify(index, null, '  ')}\n`)
+        return fs.outputJson(outputFile, index, JSON_OPTIONS)
           .then(() => {
             return index;
           });

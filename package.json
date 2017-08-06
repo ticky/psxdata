@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "cached-request": "^1.1.2",
-    "fs-then-native": "^2.0.0",
+    "fs-extra": "^4.0.1",
     "jest": "^20.0.4",
     "jsdom": "^11.0.0",
     "queue-that-promise": "^1.2.3",
