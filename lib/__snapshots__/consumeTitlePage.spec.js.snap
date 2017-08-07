@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`consumeTitlePage produces expected output under JSDOM for LEMMINGS 1`] = `
+Object {
+  "commonTitle": "3D Lemmings",
+  "coverLink": "https://test-psxdata/images/covers/P/L/SCES-00009.jpg",
+  "date": "1995-10-01",
+  "developer": "Clockwork Games Limited",
+  "genre": "Puzzle",
+  "publisher": "Psygnosis",
+  "rating": Array [
+    "elspa-3",
+    "usk-0",
+  ],
+  "style": undefined,
+  "title": "Lemmings 3D",
+}
+`;
+
+exports[`consumeTitlePage produces expected output under JSDOM for TEKKEN 3 1`] = `
+Object {
+  "coverLink": "https://test-psxdata/images/covers/J/T/SLPS-01300.jpg",
+  "date": "1998-03-26",
+  "developer": "Namco",
+  "genre": "Fighting",
+  "publisher": "Namco",
+  "rating": Array [
+    "esrb-t",
+    "usk-0",
+  ],
+  "style": undefined,
+  "title": "Tekken 3",
+}
+`;
